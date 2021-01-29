@@ -1,0 +1,12 @@
+{
+	"programmes": [
+		{
+			"program_name": "Test Show",
+			"episode_name": "Season 4 Episode 2", // optional
+			// "date": "2015-09-23", // always "YYYY-MM-DD"
+			"starts": "2230", // always "HHMM"
+			"duration": 60, // always minutes
+			"info_link": "http://somewhere" // optional, link to info about show
+		}
+	]
+}

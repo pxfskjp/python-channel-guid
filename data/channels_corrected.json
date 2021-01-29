@@ -1,0 +1,620 @@
+{
+    "channels": [
+        {
+            "name": "TBN", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "46", 
+            "schedule_url": "http://www.tbn.tv/watch-us/broadcast-schedule", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/f2d690b0b-1.jpg"
+        }, 
+        {
+            "name": "The Church Channel", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "47", 
+            "schedule_url": "http://www.churchchannel.tv/watch/schedule_view.php", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/2fc78bd87-1.jpg"
+        }, 
+        {
+            "name": "Smile of a Child (Kids)", 
+            "omit": "", 
+            "is_done": "ddd", 
+            "number": "48", 
+            "schedule_url": "http://www.smileofachildtv.org/watch/schedule_weekview.php", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/c65891bf2-1.jpg"
+        }, 
+        {
+            "name": "Juce TV (TBN Teens)", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "49", 
+            "schedule_url": "http://www.jctv.org/flashindex.php", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/e5691528b-1.jpg"
+        }, 
+        {
+            "name": "3ABN", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "50", 
+            "schedule_url": "http://3abn.org/schedule", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/c6aec1588-1.jpg"
+        }, 
+        {
+            "name": "3ABN Kids Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "51", 
+            "schedule_url": "http://3abn.org/schedule/3abn-kids-network", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/96eaae9c7-1.jpg"
+        }, 
+        {
+            "name": "3ABN! Dare to Dream Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "52", 
+            "schedule_url": "http://3abn.org/schedule/dare-to-dream", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/084cf923f-1.jpg"
+        }, 
+        {
+            "name": "3ABN Proclaim", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "53", 
+            "schedule_url": "http://3abn.org/schedule/3abn-proclaim/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/9754c8110-1.jpg"
+        }, 
+        {
+            "name": "Day Star", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "54", 
+            "schedule_url": "http://www.daystar.com/schedule/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/953ed276d-1.jpg"
+        }, 
+        {
+            "name": "Hope Channel", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "56", 
+            "schedule_url": "http://www2.hopetv.org/watch/program-guide/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/b97a5b87b-1.jpg"
+        }, 
+        {
+            "name": "The Word Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "57", 
+            "schedule_url": "www.thewordnetwork.org/watch-twn/week", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/eeb7fa748-1.jpg"
+        }, 
+        {
+            "name": "NRB Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "58", 
+            "schedule_url": "http://pw.myersinfosys.com/nrb/day", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/1ea400d14-1.jpg"
+        }, 
+        {
+            "name": "LLBN", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "59", 
+            "schedule_url": "http://www.llbn.tv/#!schedule/c13fy", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/c6cd95f5e-1.jpg"
+        }, 
+        {
+            "name": "Corner Stone TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "60", 
+            "schedule_url": "http://www.ctvn.org/the-programs/quick-links/print-monthly-schedule/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/a7b08960d-1.jpg"
+        }, 
+        {
+            "name": "TCT Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "61", 
+            "schedule_url": "http://www.tct.tv/watch-tct/schedules/tct", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/4eb9087b8-1.jpg"
+        }, 
+        {
+            "name": "TCT Kids", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "62", 
+            "schedule_url": "http://www.tct.tv/watch-tct/schedules/tct-kids", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/b3d45ef74-1.jpg"
+        }, 
+        {
+            "name": "TCT Family", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "63", 
+            "schedule_url": "http://www.tct.tv/watch-tct/schedules/tct-family", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/6d72e09ef-1.jpg"
+        }, 
+        {
+            "name": "TY TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "64", 
+            "schedule_url": "http://www.tytvonline.com/schedule.html", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/04733d00e-1.jpg"
+        }, 
+        {
+            "name": "UAN", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "65", 
+            "schedule_url": "http://uanetwork.tv/schedule/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/0e60d0fb5-1.jpg"
+        }, 
+        {
+            "name": "Firstlight Broadcasting Network", 
+            "omit": "", 
+            "is_done": "d", 
+            "number": "67", 
+            "schedule_url": "http://www.firstlight.org.nz/schedule/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/faed3aab1-1.jpg"
+        }, 
+        {
+            "name": "Healing Jesus TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "69", 
+            "schedule_url": "http://healingjesus.tv/TV3/index.php/2012-08-09-06-47-42", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/a9204af16-1.jpg"
+        }, 
+        {
+            "name": "Gospel Broadcasting Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "72", 
+            "schedule_url": "http://gbntv.org/user/files/schedule%207-1-14%201.pdf", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/7a5284317-1.jpg"
+        }, 
+        {
+            "name": "Inspiration TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "74", 
+            "schedule_url": "http://www.ini.tv/schedule/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/566a3109d-1.jpg"
+        }, 
+        {
+            "name": "TBN Enlace Hispanic", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "77", 
+            "schedule_url": "http://www.enlace.org/horario/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/98e07bfa4-1.jpg"
+        }, 
+        {
+            "name": "Newsmax", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "80", 
+            "schedule_url": "http://www.newsmaxtv.com/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/992bd67dc-1.jpg"
+        }, 
+        {
+            "name": "CBN", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "84", 
+            "schedule_url": "http://www.cbn.com/700club/index.aspx", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/fa19aae5f-1.jpg"
+        }, 
+        {
+            "name": "Safe TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "85", 
+            "schedule_url": "http://safetv.org/schedule.pdf", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/89da5c1a4-1.jpg"
+        }, 
+        {
+            "name": "RT News (US)", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "86", 
+            "schedule_url": "http://rt.com/schedule/", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/4078ec31e-1.jpg"
+        }, 
+        {
+            "name": "Australian Christian TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "89", 
+            "schedule_url": "http://www.acc.tv/#!blank/cq9v", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/c62a966ff-1.jpg"
+        }, 
+        {
+            "name": "God Television (USA Main Flagship Live)", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "92", 
+            "schedule_url": "http://www.god.tv/schedule", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/e0e0b8187-1.jpg"
+        }, 
+        {
+            "name": "SuperChannel (WACX DTV Orlando Florida)", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "97", 
+            "schedule_url": "http://www.wacxtv.com/ProgramSchedule.aspx", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/e9be026cf-1.jpg"
+        }, 
+        {
+            "name": "SonLife TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "100", 
+            "schedule_url": "http://www.sonlifetv.com/tvprogramguide.html", 
+            "image_url": "http://www.eternityready.tv/uploads/thumbs/55b496a85-1.jpg"
+        }, 
+        {
+            "name": "HARVEST TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "101", 
+            "schedule_url": "http://www.harvesttv.in/schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/74c81ff33-1.jpg"
+        }, 
+        {
+            "name": "KBN", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "102", 
+            "schedule_url": "http://kbntv.tv/tv_schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/c16591e23-1.jpg"
+        }, 
+        {
+            "name": "TRUE GOD TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "103", 
+            "schedule_url": "http://truegod.tv/tvschedule.php", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/433eb3cbb-1.jpg"
+        }, 
+        {
+            "name": "KAZQ", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "105", 
+            "schedule_url": "http://kazq32.org/wp-content/uploads/2014/11/2014-December-Grid.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/82d862d6c-1.jpg"
+        }, 
+        {
+            "name": "HRN", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "106", 
+            "schedule_url": "http://www.hebraicrootstelevision.com/schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/3735e061e-1.jpg"
+        }, 
+        {
+            "name": "Generation Now Network", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "107", 
+            "schedule_url": "http://gennow.tv/home/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/5c6e0d92a-1.jpg"
+        }, 
+        {
+            "name": "GEB America", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "110", 
+            "schedule_url": "http://www.gebamerica.com/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/5d40a8704-1.jpg"
+        }, 
+        {
+            "name": "Word Broadcasting", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "111", 
+            "schedule_url": "http://wordbroadcast.org/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/b177d8248-1.jpg"
+        }, 
+        {
+            "name": "GOOD LIFE 45", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "112", 
+            "schedule_url": "http://goodlife45.org/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/1014183a7-1.jpg"
+        }, 
+        {
+            "name": "Christian Satellite TV ( SAT 7)", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "113", 
+            "schedule_url": "http://sat7.org/files/schedules/kids_schedule.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/38fa8fee3-1.jpg"
+        }, 
+        {
+            "name": "HEALING CHANNEL", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "118", 
+            "schedule_url": "http://alhorreya.tv/grid", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/5d44b8b4a-1.jpg"
+        }, 
+        {
+            "name": "WGN Chicago", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "119", 
+            "schedule_url": "http://affiliate.zap2it.com/tvlistings/ZCSGrid.do?aid=twgntv", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/afe44e8ff-1.jpg"
+        }, 
+        {
+            "name": "MNN SPIRIT CHANNEL", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "120", 
+            "schedule_url": "http://www.mnn.org/schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/3faf8dd0c-1.jpg"
+        }, 
+        {
+            "name": "Family Friendly Entertainment", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "123", 
+            "schedule_url": "http://www.familyfriendlye.com/schedule.html", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/5bf0357f8-1.jpg"
+        }, 
+        {
+            "name": "THE WALK TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "127", 
+            "schedule_url": "http://thewalktv.wordpress.com/schedule-2/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/c12845524-1.jpg"
+        }, 
+        {
+            "name": "Son Broadcasting Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "129", 
+            "schedule_url": "http://kchftv.org/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/4c28b19c7-1.jpg"
+        }, 
+        {
+            "name": "Press TV", 
+            "omit": "", 
+            "is_done": "d", 
+            "number": "139", 
+            "schedule_url": "http://www.presstv.com/Default/Schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/679086eb0-1.jpg"
+        }, 
+        {
+            "name": "SUBHAVAARTHA TV", 
+            "omit": "", 
+            "is_done": "d", 
+            "number": "140", 
+            "schedule_url": "http://www.subhavaarthatv.com/program.php", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/517aac489-1.jpg"
+        }, 
+        {
+            "name": "Jewish Broadcasting", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "149", 
+            "schedule_url": "http://affiliate.zap2it.com/tvlistings/ZCSGrid.do?stnNum=74978&aid=shalomtv", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/35ace613f-1.jpg"
+        }, 
+        {
+            "name": "JLTV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "150", 
+            "schedule_url": "http://www.jltv.tv/schedule.php", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/a67680573-1.jpg"
+        }, 
+        {
+            "name": "VELUGU TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "151", 
+            "schedule_url": "http://www.velugutv.com/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/7f224af88-1.jpg"
+        }, 
+        {
+            "name": "AUTO TV", 
+            "omit": "", 
+            "is_done": "d", 
+            "number": "155", 
+            "schedule_url": "http://www.filmon.tv/tvguide/auto-channel", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/bc611a4f8-1.jpg"
+        }, 
+        {
+            "name": "Impact Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "163", 
+            "schedule_url": "http://watchimpact.com/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/ad8a4cf74-1.jpg"
+        }, 
+        {
+            "name": "His Channel", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "165", 
+            "schedule_url": "http://www.hischannel.com/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/e4d19768d-1.jpg"
+        }, 
+        {
+            "name": "Ihop (24/7 Prayer & Worship)", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "167", 
+            "schedule_url": "http://www.ihopkc.org/prayerroom/schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/f2ce746d4-1.jpg"
+        }, 
+        {
+            "name": "Amazing Discoveries TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "168", 
+            "schedule_url": "http://amazingdiscoveries.org/amazing-discoveries-satellite-schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/7f8cce5f2-1.jpg"
+        }, 
+        {
+            "name": "Faith Africa", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "169", 
+            "schedule_url": "http://www.myfaithtv.com/public/docs/Faith%20Africa%20-%20Aug%202015%20TV%20Guide.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/5106a632c-1.jpg"
+        }, 
+        {
+            "name": "Bible Discovery TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "170", 
+            "schedule_url": "http://www.biblediscoverytv.com/program-schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/9ed6dc3c2-1.jpg"
+        }, 
+        {
+            "name": "Miracle Channel", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "171", 
+            "schedule_url": "http://www.miraclechannel.ca/schedule/index.php", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/7b5012226-1.jpg"
+        }, 
+        {
+            "name": "Total Living Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "180", 
+            "schedule_url": "http://tln.com/schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/0580c292e-1.jpg"
+        }, 
+        {
+            "name": "DMTV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "192", 
+            "schedule_url": "http://discover.org.au/partner/sowing-online", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/e9131ae9b-1.jpg"
+        }, 
+        {
+            "name": "NEW HOPE TV", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "193", 
+            "schedule_url": "http://newhopetv.org/schedule.aspx", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/5de97dd9f-1.jpg"
+        }, 
+        {
+            "name": "United Christian Broadcasters", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "199", 
+            "schedule_url": "http://www.ucb.co.uk/player/guide", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/4bd489423-1.jpg"
+        }, 
+        {
+            "name": "Flow TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "200", 
+            "schedule_url": "http://www.flowtv.co.uk/application/pdf/FLOW%20TV%20guide%20October%202014.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/8215dc861-1.jpg"
+        }, 
+        {
+            "name": "Gospel TV (Europe)", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "201", 
+            "schedule_url": "http://www.gospel.tv/wp-content/uploads/Schdedule/UK%20Schedule.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/ad9cc05e0-1.jpg"
+        }, 
+        {
+            "name": "Love World TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "205", 
+            "schedule_url": "http://www.loveworldtv.co.uk/tv-schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/2d6c249cc-1.jpg"
+        }, 
+        {
+            "name": "Believe TV Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "206", 
+            "schedule_url": "http://believetvnetwork.com/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/200df19a3-1.jpg"
+        }, 
+        {
+            "name": "Revelation TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "207", 
+            "schedule_url": "http://www.revelationtv.com/schedule", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/a40fb9ca7-1.jpg"
+        }, 
+        {
+            "name": "Amazing Facts Television", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "211", 
+            "schedule_url": "http://manna.amazingfacts.org/amazingfacts/website/multiple/documents/AFTV-Schedule.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/7713cb853-1.jpg"
+        }, 
+        {
+            "name": "God's Learning Channel", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "212", 
+            "schedule_url": "http://www.godslearningchannel.com/site/schedule.php", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/113b1fc98-1.jpg"
+        }, 
+        {
+            "name": "KSCE Life! (El Paso Texas)", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "213", 
+            "schedule_url": "http://kscetv.com/archives/3419", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/df2b3b73a-1.jpg"
+        }, 
+        {
+            "name": "Christian Television Network", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "214", 
+            "schedule_url": "http://www.locatetv.com/listings/christian-television-network", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/df33adf0f-1.jpg"
+        }, 
+        {
+            "name": "HisChannel Network Television", 
+            "omit": "", 
+            "is_done": "", 
+            "number": "215", 
+            "schedule_url": "http://www.hischannel.com/schedule/", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/c81277a8f-1.jpg"
+        }, 
+        {
+            "name": "Bible Exploration TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "216", 
+            "schedule_url": "http://www.bibleexplorations.com/streaming.php", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/76342ac53-1.jpg"
+        }, 
+        {
+            "name": "Smart Life Style TV", 
+            "omit": "", 
+            "is_done": "dd", 
+            "number": "217", 
+            "schedule_url": "http://media.wix.com/ugd/a7d43a_58e335c3f291437093cf51b13d36e952.pdf", 
+            "image_url": "http://www.eternityready.com/uploads/thumbs/91336c956-1.jpg"
+        }
+    ]
+}

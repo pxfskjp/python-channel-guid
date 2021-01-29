@@ -1,0 +1,4 @@
+AuthName "Guide-Control"
+AuthUserFile "/home/jfarris/.htpasswds/public_html/channel-guide/control/passwd"
+AuthType Basic
+require valid-user

@@ -1,0 +1,4 @@
+#Force www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^eternityready.com [NC]
+RewriteRule ^(.*)$ http://www.eternityready.com/channel-guide/ [L,R=301,NC]

@@ -1,0 +1,1142 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GLOB",
+				"GLOBAL_done_first"
+			],
+			[
+				"cha",
+				"change_day"
+			],
+			[
+				"GLO",
+				"GLOBAL_is_updating"
+			],
+			[
+				"GLOBA",
+				"GLOBAL_is_updating"
+			],
+			[
+				"min",
+				"minute"
+			],
+			[
+				"cu",
+				"current-time-bar"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"da",
+				"days_js"
+			],
+			[
+				"day",
+				"days_data"
+			],
+			[
+				"upd",
+				"update_schedules"
+			],
+			[
+				"date",
+				"date_string"
+			],
+			[
+				"prog",
+				"programs"
+			],
+			[
+				"pro",
+				"programs_by_day"
+			],
+			[
+				"link",
+				"link_parts"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"get",
+				"get_info_for_days"
+			],
+			[
+				"nex",
+				"next_prog"
+			],
+			[
+				"star",
+				"starts_datetime"
+			],
+			[
+				"c3",
+				"c3abn_data"
+			],
+			[
+				"sched",
+				"schedules"
+			],
+			[
+				"days",
+				"days_js"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"add_",
+				"add_programme"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"pgor",
+				"program"
+			],
+			[
+				"dat",
+				"date_string"
+			],
+			[
+				"scrol",
+				"scrollLeft"
+			],
+			[
+				"channels",
+				"channels-container"
+			],
+			[
+				"di",
+				"display_name"
+			],
+			[
+				"chan",
+				"channel"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"time",
+				"time_as_text"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"tra",
+				"Trawler3ABN"
+			],
+			[
+				"Tra",
+				"Trawler3ABN"
+			],
+			[
+				"url",
+				"urllib"
+			],
+			[
+				"TR_FR",
+				"TR_FR_SEQUENTIAL"
+			],
+			[
+				"fields",
+				"fieldsLoaded"
+			],
+			[
+				"Has",
+				"HashMap             Struct (map.rs) : pub struct HashMap<K, V, S = RandomState> {                         "
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "site/server.py",
+			"settings":
+			{
+				"buffer_size": 2023,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/do_scrape.py",
+			"settings":
+			{
+				"buffer_size": 3217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/csky.py",
+			"settings":
+			{
+				"buffer_size": 2667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "curl 'http://www.locatetv.com/listings/smile-of-a-child-network?offset=4&rows=0&_=1443214811671' -H 'X-Requested-With: XMLHttpRequest'",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix",
+				"name": "curl 'http://www.locatetv.com/listings/smile-of-a-"
+			}
+		},
+		{
+			"contents": "<select class=\"selectRedirect\">\n                <option value=\"\">Select Channel...</option>\n                <option value=\"/listings/video-on-demand\">Video On Demand (ch 001)</option>\n                <option value=\"/listings/satellite-response-network-4\">Shop IDEA for the products you want and (ch 071)</option>\n                <option value=\"/listings/dish-srn3\">DISH SRN3 (ch 072)</option>\n                <option value=\"/listings/bluehighways-tv\">BlueHighways TV (ch 073)</option>\n                <option value=\"/listings/in-country-tv-dish\">In Country TV Dish (ch 081)</option>\n                <option value=\"/listings/family-entertainment-television\">Family Entertainment Television (ch 082)</option>\n                <option value=\"/listings/jewelry-television-by-acn\">Jewelry Television (ch 083)</option>\n                <option value=\"/listings/home-shopping-network\">HSN (ch 084)</option>\n                <option value=\"/listings/satellite-response-network\">Newsmax TV (ch 085)</option>\n                <option value=\"/listings/infomercial\">Infomercial (ch 085)</option>\n                <option value=\"/listings/satellite-response-network-7\">Satellite Response Network 7 (ch 086)</option>\n                <option value=\"/listings/dealnow2\">Rocks TV (ch 087)</option>\n                <option value=\"/listings/dn9644\">VALU has the best products offered on TV (ch 094)</option>\n                <option value=\"/listings/infomercial\">Infomercial (ch 094)</option>\n                <option value=\"/listings/dt219\">Shop NOW network for the hottest product (ch 095)</option>\n                <option value=\"/listings/local-origination-loor099\">Local Origination - LOOR099 (ch 099)</option>\n                <option value=\"/listings/dish-home-interactive-tv\">Dish Home Interactive TV (ch 100)</option>\n                <option value=\"/listings/information-channel-info101\">Information Channel - INFO101 (ch 101)</option>\n                <option value=\"/listings/blockbuster-studio-channel\">Dish Studio (ch 102)</option>\n                <option value=\"/listings/echostar-3-minute-movie-guide\">Echostar 3 Minute Movie Guide (ch 103)</option>\n                <option value=\"/listings/satellite-response-network-4\">Shop IDEA for the products you want and (ch 104)</option>\n                <option value=\"/listings/usa-network\">USA Network (ch 105)</option>\n                <option value=\"/listings/usa-network-hd\">USA Network HD (ch 105)</option>\n                <option value=\"/listings/tv-land\">TV Land (ch 106)</option>\n                <option value=\"/listings/comedy-central\">Comedy Central (ch 107)</option>\n                <option value=\"/listings/comedy-central-hd\">Comedy Central HD (ch 107)</option>\n                <option value=\"/listings/lifetime\">Lifetime (ch 108)</option>\n                <option value=\"/listings/lifetime-hd\">Lifetime HD (ch 108)</option>\n                <option value=\"/listings/lifetime-movie-network\">Lifetime Movie Network (ch 109)</option>\n                <option value=\"/listings/lifetime-movie-network-hd\">Lifetime Movie Network HD (ch 109)</option>\n                <option value=\"/listings/food-network\">Food Network (ch 110)</option>\n                <option value=\"/listings/food-hd\">Food Network HD (ch 110)</option>\n                <option value=\"/listings/do-it-yourself-network\">Do-It-Yourself Network (ch 111)</option>\n                <option value=\"/listings/do-it-yourself-network-hd\">Do-It-Yourself Network HD (ch 111)</option>\n                <option value=\"/listings/home-and-garden-television\">Home &amp; Garden Television (ch 112)</option>\n                <option value=\"/listings/hgtv-hd-hghd\">Home &amp; Garden Television HD (ch 112)</option>\n                <option value=\"/listings/cooking-channel\">Cooking Channel (ch 113)</option>\n                <option value=\"/listings/cooking-channel-hd\">Cooking Channel HD (ch 113)</option>\n                <option value=\"/listings/e-entertainment-television\">E! Entertainment Television (ch 114)</option>\n                <option value=\"/listings/e-entertainment-television-hd\">E! Entertainment Television HD (ch 114)</option>\n                <option value=\"/listings/gsn\">GSN (ch 116)</option>\n                <option value=\"/listings/gsn-hd\">GSN HD (ch 116)</option>\n                <option value=\"/listings/tv-guide-network\">POP (ch 117)</option>\n                <option value=\"/listings/and-e-network\">A&amp;E Network (ch 118)</option>\n                <option value=\"/listings/aande-hd-east\">A&amp;E Network HD East (ch 118)</option>\n                <option value=\"/listings/biography-channel\">FYI (ch 119)</option>\n                <option value=\"/listings/biography-channel-hd\">FYI Channel HD (ch 119)</option>\n                <option value=\"/listings/history\">History (ch 120)</option>\n                <option value=\"/listings/history-hd\">History HD (ch 120)</option>\n                <option value=\"/listings/history-international\">H2 (ch 121)</option>\n                <option value=\"/listings/history-international-hd\">H2HD (ch 121)</option>\n                <option value=\"/listings/syfy\">Syfy (ch 122)</option>\n                <option value=\"/listings/syfy-hd\">Syfy HD (ch 122)</option>\n                <option value=\"/listings/satellite-response-network-7\">Satellite Response Network 7 (ch 123)</option>\n                <option value=\"/listings/bet\">BET (ch 124)</option>\n                <option value=\"/listings/bet-hd\">BET HD (ch 124)</option>\n                <option value=\"/listings/ad-channel-static-adch125\">Ad Channel (Static) - ADCH125 (ch 125)</option>\n                <option value=\"/listings/sundance-channel-hd\">SundanceTV HD (ch 126)</option>\n                <option value=\"/listings/oxygen\">Oxygen (ch 127)</option>\n                <option value=\"/listings/we-tv\">WE tv (ch 128)</option>\n                <option value=\"/listings/we-tv-hd\">WE tv HD (ch 128)</option>\n                <option value=\"/listings/bravo\">Bravo (ch 129)</option>\n                <option value=\"/listings/bravo-hd\">Bravo HD (ch 129)</option>\n                <option value=\"/listings/hdnet-movies\">HDNet Movies (ch 130)</option>\n                <option value=\"/listings/amc\">AMC (ch 131)</option>\n                <option value=\"/listings/turner-classic-movies\">Turner Classic Movies (ch 132)</option>\n                <option value=\"/listings/turner-classic-movies-hd\">Turner Classic Movies HD (ch 132)</option>\n                <option value=\"/listings/independent-film-channel\">IFC (ch 133)</option>\n                <option value=\"/listings/independent-film-channel-hd\">IFC HD (ch 133)</option>\n                <option value=\"/listings/shopnbc/6093\">EVINE Live (ch 134)</option>\n                <option value=\"/listings/bbc-america\">BBC America (ch 135)</option>\n                <option value=\"/listings/bbc-america-hd\">BBC America HD (ch 135)</option>\n                <option value=\"/listings/fx\">FX (ch 136)</option>\n                <option value=\"/listings/fx-hd\">FX HD (ch 136)</option>\n                <option value=\"/listings/qvc\">QVC (ch 137)</option>\n                <option value=\"/listings/turner-network-tv\">Turner Network TV (ch 138)</option>\n                <option value=\"/listings/tnthd-tnt-hd\">Turner Network TV HD (ch 138)</option>\n                <option value=\"/listings/turner-broadcasting-system\">Turner Broadcasting System (ch 139)</option>\n                <option value=\"/listings/tbs-hd\">TBS HD (ch 139)</option>\n                <option value=\"/listings/espn\">ESPN (ch 140)</option>\n                <option value=\"/listings/espnhd\">ESPNHD (ch 140)</option>\n                <option value=\"/listings/espnu\">ESPNU (ch 141)</option>\n                <option value=\"/listings/espnews\">ESPNEWS (ch 142)</option>\n                <option value=\"/listings/espn2\">ESPN2 (ch 143)</option>\n                <option value=\"/listings/espn-alternate\">ESPN (Alternate) (ch 144)</option>\n                <option value=\"/listings/espn-alternate\">ESPN (Alternate) (ch 145)</option>\n                <option value=\"/listings/espn2-alternate\">ESPN2 (Alternate) (ch 146)</option>\n                <option value=\"/listings/espn-alternate\">ESPN (Alternate) (ch 147)</option>\n                <option value=\"/listings/trutv\">truTV (ch 148)</option>\n                <option value=\"/listings/local-access\">Local Access (ch 149)</option>\n                <option value=\"/listings/fox-sports-1\">Fox Sports 1 (ch 150)</option>\n                <option value=\"/listings/fox-sports-1-hd\">Fox Sports 1 HD (ch 150)</option>\n                <option value=\"/listings/mlb-network\">MLB Network (ch 152)</option>\n                <option value=\"/listings/mlb-network-hd\">MLB Network HD (ch 152)</option>\n                <option value=\"/listings/mlb-strike-zone-mlbsz1\">MLB Strike Zone - MLBSZ1 (ch 153)</option>\n                <option value=\"/listings/nfl-network-hd\">NFL Network HD (ch 154)</option>\n                <option value=\"/listings/nflnet\">NFL NETWORK (ch 154)</option>\n                <option value=\"/listings/nfl-redzone\">NFL RedZone (ch 155)</option>\n                <option value=\"/listings/nfl-redzone-hd\">NFL RedZone HD (ch 155)</option>\n                <option value=\"/listings/nba-tv\">NBA TV (ch 156)</option>\n                <option value=\"/listings/nba-tv-hdtv\">NBA TV HDTV (ch 156)</option>\n                <option value=\"/listings/nhl-network/9729\">NHL Network (ch 157)</option>\n                <option value=\"/listings/nhl-network-hd\">NHL Network HD (ch 157)</option>\n                <option value=\"/listings/cbs-college-sports-network\">CBS Sports Network (ch 158)</option>\n                <option value=\"/listings/cbs-college-sports-network-hd\">CBS Sports Network HD (ch 158)</option>\n                <option value=\"/listings/versus\">NBCSN (ch 159)</option>\n                <option value=\"/listings/versus-hd\">NBCSN HD (ch 159)</option>\n                <option value=\"/listings/mtv-music-television\">MTV - Music Television (ch 160)</option>\n                <option value=\"/listings/mtv-music-television-hd\">MTV - Music Television HD (ch 160)</option>\n                <option value=\"/listings/mtv2-music-television\">MTV2: Music Television (ch 161)</option>\n                <option value=\"/listings/vh1-video-hits-one\">VH1 (ch 162)</option>\n                <option value=\"/listings/vh1-hd\">VH1 HD (ch 162)</option>\n                <option value=\"/listings/vh1-classic\">VH1 Classic (ch 163)</option>\n                <option value=\"/listings/fuse\">Fuse (ch 164)</option>\n                <option value=\"/listings/fuse-hd\">Fuse HD (ch 164)</option>\n                <option value=\"/listings/great-american-country\">Great American Country (ch 165)</option>\n                <option value=\"/listings/country-music-television\">Country Music Television (ch 166)</option>\n                <option value=\"/listings/country-music-television-hd\">Country Music Television HD (ch 166)</option>\n                <option value=\"/listings/hdnet\">AXS TV (ch 167)</option>\n                <option value=\"/listings/disney-junior-us\">Disney Junior US (ch 168)</option>\n                <option value=\"/listings/nick-jr\">Nick Jr (ch 169)</option>\n                <option value=\"/listings/nickelodeon\">Nickelodeon (ch 170)</option>\n                <option value=\"/listings/nickelodeon-hd\">Nickelodeon HD (ch 170)</option>\n                <option value=\"/listings/nickelodeon-pacific\">Nickelodeon (Pacific) (ch 171)</option>\n                <option value=\"/listings/disney-channel\">Disney Channel (ch 172)</option>\n                <option value=\"/listings/disney-channel-pacific\">Disney Channel (Pacific) (ch 173)</option>\n                <option value=\"/listings/disney-xd\">Disney XD (ch 174)</option>\n                <option value=\"/listings/boomerang\">Boomerang (ch 175)</option>\n                <option value=\"/listings/cartoon-network\">Cartoon Network (ch 176)</option>\n                <option value=\"/listings/cartoon-network-hd\">Cartoon Network HD (ch 176)</option>\n                <option value=\"/listings/cartoon-network-pacific\">Cartoon Network (Pacific) (ch 177)</option>\n                <option value=\"/listings/nicktoons-network\">Nicktoons Network (ch 178)</option>\n                <option value=\"/listings/discovery-kids\">Discovery Family Channel (ch 179)</option>\n                <option value=\"/listings/discovery-kids-hd\">Discovery Family Channel HD (ch 179)</option>\n                <option value=\"/listings/abc-family\">ABC Family (ch 180)</option>\n                <option value=\"/listings/teen-nick\">Teen Nick (ch 181)</option>\n                <option value=\"/listings/discovery-channel\">The Discovery Channel (ch 182)</option>\n                <option value=\"/listings/discovery-channel-hd\">The Discovery Channel HD (ch 182)</option>\n                <option value=\"/listings/learning-channel\">The Learning Channel (ch 183)</option>\n                <option value=\"/listings/learning-channel-hd\">The Learning Channel HD (ch 183)</option>\n                <option value=\"/listings/animal-planet\">Animal Planet (ch 184)</option>\n                <option value=\"/listings/animal-planet-hd\">Animal Planet HD (ch 184)</option>\n                <option value=\"/listings/hallmark-channel\">Hallmark Channel (ch 185)</option>\n                <option value=\"/listings/hallmark-channel-hd\">Hallmark Channel HD (ch 185)</option>\n                <option value=\"/listings/national-geographic-channel\">National Geographic Channel (ch 186)</option>\n                <option value=\"/listings/national-geographic-hd\">National Geographic Channel HD (ch 186)</option>\n                <option value=\"/listings/hallmark-movie-channel-hd\">Hallmark Movies &amp; Mysteries HD (ch 187)</option>\n                <option value=\"/listings/hallmark-movie-channel\">Hallmark Movies &amp; Mysteries (ch 187)</option>\n                <option value=\"/listings/gospel-music-channel\">UP (ch 188)</option>\n                <option value=\"/listings/oprah-winfrey-network\">Oprah Winfrey Network (ch 189)</option>\n                <option value=\"/listings/oprah-winfrey-network-hd\">Oprah Winfrey Network HD (ch 189)</option>\n                <option value=\"/listings/national-geographic-wild/13619\">National Geographic Wild (ch 190)</option>\n                <option value=\"/listings/national-geographic-wild-hd\">National Geographic Wild HD (ch 190)</option>\n                <option value=\"/listings/style\">Esquire (ch 191)</option>\n                <option value=\"/listings/style-hd\">Esquire HD (ch 191)</option>\n                <option value=\"/listings/investigation-discovery\">Investigation Discovery (ch 192)</option>\n                <option value=\"/listings/investigation-discovery-hd\">Investigation Discovery HD (ch 192)</option>\n                <option value=\"/listings/science-channel\">Science (ch 193)</option>\n                <option value=\"/listings/science-channel-hd\">Science Channel HD (ch 193)</option>\n                <option value=\"/listings/planet-green\">Destination America (ch 194)</option>\n                <option value=\"/listings/planet-green-hd\">Destination America HD (ch 194)</option>\n                <option value=\"/listings/military-channel\">American Heroes Channel (ch 195)</option>\n                <option value=\"/listings/travel-channel\">The Travel Channel (ch 196)</option>\n                <option value=\"/listings/travel-channel-hd\">The Travel Channel HD (ch 196)</option>\n                <option value=\"/listings/halogen\">Pivot (ch 197)</option>\n                <option value=\"/listings/chiller\">Chiller (ch 199)</option>\n                <option value=\"/listings/cable-news-network\">Cable News Network (ch 200)</option>\n                <option value=\"/listings/cnn-hd\">CNN HD (ch 200)</option>\n                <option value=\"/listings/hln-formerly-headline-news\">HLN (ch 202)</option>\n                <option value=\"/listings/hln-hd\">HLN HD (ch 202)</option>\n                <option value=\"/listings/dish-bloomberg\">DISH Bloomberg (ch 203)</option>\n                <option value=\"/listings/fox-news-channel\">Fox News Channel (ch 205)</option>\n                <option value=\"/listings/fox-news-channel-hd\">Fox News Channel HD (ch 205)</option>\n                <option value=\"/listings/fox-business\">Fox Business (ch 206)</option>\n                <option value=\"/listings/fox-business-hd\">Fox Business HD (ch 206)</option>\n                <option value=\"/listings/cnbc\">CNBC (ch 208)</option>\n                <option value=\"/listings/cnbc-hd\">CNBC HD (ch 208)</option>\n                <option value=\"/listings/msnbc\">MSNBC (ch 209)</option>\n                <option value=\"/listings/msnbc-hd\">MSNBC HD (ch 209)</option>\n                <option value=\"/listings/cspan\">CSPAN (ch 210)</option>\n                <option value=\"/listings/cspan2\">CSPAN2 (ch 211)</option>\n                <option value=\"/listings/blaze-tv\">The Blaze TV (ch 212)</option>\n                <option value=\"/listings/weather-channel\">The Weather Channel (ch 214)</option>\n                <option value=\"/listings/weather-channel-hd\">The Weather Channel HD (ch 214)</option>\n                <option value=\"/listings/weather-nation-tv\">Weather Nation TV (ch 215)</option>\n                <option value=\"/listings/current-tv\">Al Jazeera America (ch 216)</option>\n                <option value=\"/listings/world-harvest-television/20794\">World Harvest Television (ch 217)</option>\n                <option value=\"/listings/veria\">Z Living (ch 218)</option>\n                <option value=\"/listings/veria-hd\">Z Living HD (ch 218)</option>\n                <option value=\"/listings/americas-auction-network\">America's Auction Network (ch 219)</option>\n                <option value=\"/listings/satellite-response-network-7\">Satellite Response Network 7 (ch 220)</option>\n                <option value=\"/listings/satellite-response-network-2\">Satellite Response Network 2 (ch 221)</option>\n                <option value=\"/listings/home-shopping-network\">HSN (ch 222)</option>\n                <option value=\"/listings/newsmax-tv\">Newsmax TV (ch 223)</option>\n                <option value=\"/listings/local-origination-loor224\">Local Origination - LOOR224 (ch 224)</option>\n                <option value=\"/listings/infomercial\">Infomercial (ch 224)</option>\n                <option value=\"/listings/satellite-response-network-5\">Satellite Response Network 5 (ch 225)</option>\n                <option value=\"/listings/home-shopping-network-2\">HSN2 (ch 226)</option>\n                <option value=\"/listings/jewelry-television-by-acn\">Jewelry Television (ch 227)</option>\n                <option value=\"/listings/shopnbc/6093\">EVINE Live (ch 228)</option>\n                <option value=\"/listings/gem-shopping-network\">Gem Shopping Network (ch 229)</option>\n                <option value=\"/listings/in-country-tv-dish\">In Country TV Dish (ch 230)</option>\n                <option value=\"/listings/rfd-tv\">RFD TV (ch 231)</option>\n                <option value=\"/listings/rfd-tv-hd\">RFD TV HD (ch 231)</option>\n                <option value=\"/listings/familynet\">FamilyNet (ch 232)</option>\n                <option value=\"/listings/ktla-cw\">KTLA (CW) (ch 233)</option>\n                <option value=\"/listings/wpix-cw\">WPIX (CW) (ch 234)</option>\n                <option value=\"/listings/kwgn-cw\">KWGN (CW) (ch 235)</option>\n                <option value=\"/listings/wsbk\">WSBK (ch 236)</option>\n                <option value=\"/listings/wwor-tv-channel-9-local-new-york-mynetworktv\">WWOR TV Channel 9 (Local New York) (MyNetworkTV) (ch 238)</option>\n                <option value=\"/listings/wgn-america\">WGN America (ch 239)</option>\n                <option value=\"/listings/wgn-sat-hd\">WGN America HD (ch 239)</option>\n                <option value=\"/listings/fox-soccer-channel\">FXX (ch 240)</option>\n                <option value=\"/listings/fox-soccer-channel-hd\">FXX HD (ch 240)</option>\n                <option value=\"/listings/spike-tv\">Spike TV (ch 241)</option>\n                <option value=\"/listings/spike-tv-hd\">Spike TV HD (ch 241)</option>\n                <option value=\"/listings/trutv\">truTV (ch 242)</option>\n                <option value=\"/listings/trutv-hd\">truTV HD (ch 242)</option>\n                <option value=\"/listings/si-tv\">nuvoTV (ch 243)</option>\n                <option value=\"/listings/si-tv-hd\">nuvoTV HD (ch 243)</option>\n                <option value=\"/listings/fusion\">Fusion (ch 244)</option>\n                <option value=\"/listings/hd-theater\">Velocity (ch 246)</option>\n                <option value=\"/listings/universal-hd\">Universal HD (ch 247)</option>\n                <option value=\"/listings/mavtv-hd\">MavTV HD (ch 248)</option>\n                <option value=\"/listings/crime-and-investigation-network\">Crime &amp; Investigation Network (ch 249)</option>\n                <option value=\"/listings/crime-and-investigation-network-hd\">Crime &amp; Investigation Network HD (ch 249)</option>\n                <option value=\"/listings/ion-television-plus\">ION Television DirecTV/Dish/Cable White (ch 250)</option>\n                <option value=\"/listings/centric\">Centric (ch 251)</option>\n                <option value=\"/listings/centric-hd\">Centric HD (ch 251)</option>\n                <option value=\"/listings/el-rey-network\">El Rey Network (ch 253)</option>\n                <option value=\"/listings/logo\">LOGO (ch 254)</option>\n                <option value=\"/listings/qvc-plus\">QVC Plus (ch 255)</option>\n                <option value=\"/listings/local-origination-loor256\">Local Origination - LOOR256 (ch 256)</option>\n                <option value=\"/listings/dn256\">DN256 (ch 256)</option>\n                <option value=\"/listings/sonlife-broadcasting-network\">SonLife Broadcasting Network (ch 257)</option>\n                <option value=\"/listings/church-channel\">The Church Channel (ch 258)</option>\n                <option value=\"/listings/inspiration-network\">INSP (ch 259)</option>\n                <option value=\"/listings/trinity-broadcasting-network\">Trinity Broadcasting Network (ch 260)</option>\n                <option value=\"/listings/eternal-word-television-network\">Eternal Word Television Network (ch 261)</option>\n                <option value=\"/listings/angel-one\">Angel One (ch 262)</option>\n                <option value=\"/listings/daystar-television-network\">Daystar Television Network (ch 263)</option>\n                <option value=\"/listings/kids-and-teens-television\">Kids and Teens Television (ch 264)</option>\n                <option value=\"/listings/angel-two\">Angel Two (ch 266)</option>\n                <option value=\"/listings/christian-television-network\" selected=\"selected\">Christian Television Network (ch 267)</option>\n                <option value=\"/listings/impact-television-network\">Impact TV (ch 268)</option>\n                <option value=\"/listings/mun2\">NBC Universo (ch 269)</option>\n                <option value=\"/listings/infomercial\">Infomercial (ch 269)</option>\n                <option value=\"/listings/univision-network\">Univision Network (ch 270)</option>\n                <option value=\"/listings/univision-network-hd\">Univision Network HD (ch 270)</option>\n                <option value=\"/listings/telefutura-network\">UniMas (ch 271)</option>\n                <option value=\"/listings/telefutura-network-pacific-hd\">UniMas HD (Pacific) (ch 272)</option>\n                <option value=\"/listings/galavision-cable-network\">Galavision Cable Network (ch 273)</option>\n                <option value=\"/listings/galavision-cable-network-hd/14161\">Galavision Cable Network HD (ch 273)</option>\n                <option value=\"/listings/liquidation-channel\">Liquidation Channel (ch 274)</option>\n                <option value=\"/listings/dish-srn3\">DISH SRN3 (ch 275)</option>\n                <option value=\"/listings/cctv-news\">CCTV News (ch 279)</option>\n                <option value=\"/listings/russia-today\">RT (ch 280)</option>\n                <option value=\"/listings/preview1\">Preview1 (ch 281)</option>\n                <option value=\"/listings/preview2\">Preview2 (ch 282)</option>\n                <option value=\"/listings/nasa-tv\">NASA TV (ch 286)</option>\n                <option value=\"/listings/3-from-epix\">Epix Drive-in (ch 292)</option>\n                <option value=\"/listings/reelzchannel\">ReelzChannel (ch 299)</option>\n                <option value=\"/listings/reelzchannel-hd\">ReelzChannel HD (ch 299)</option>\n                <option value=\"/listings/hbo\">Home Box Office (ch 300)</option>\n                <option value=\"/listings/hbo-hd\">HBO HD (ch 300)</option>\n                <option value=\"/listings/hbo2\">HBO2 (ch 301)</option>\n                <option value=\"/listings/hbo-2-hd\">HBO 2 HD (ch 301)</option>\n                <option value=\"/listings/hbo-signature\">HBO Signature (ch 302)</option>\n                <option value=\"/listings/hbo-signature-hd\">HBO Signature HD (ch 302)</option>\n                <option value=\"/listings/hbo-hd-pacific\">HBO HD (Pacific) (ch 303)</option>\n                <option value=\"/listings/hbo-pacific\">HBO (Pacific) (ch 303)</option>\n                <option value=\"/listings/hbo2-pacific\">HBO2 (Pacific) (ch 304)</option>\n                <option value=\"/listings/hbo-family\">HBO Family (ch 305)</option>\n                <option value=\"/listings/hbo-family-hd\">HBO Family HD (ch 305)</option>\n                <option value=\"/listings/hbo-comedy\">HBO Comedy (ch 307)</option>\n                <option value=\"/listings/hbo-comedy-hd\">HBO Comedy HD (ch 307)</option>\n                <option value=\"/listings/hbo-zone\">HBO Zone (ch 308)</option>\n                <option value=\"/listings/hbo-zone-hd\">HBO Zone HD (ch 308)</option>\n                <option value=\"/listings/hbo-latino\">HBO Latino (ch 309)</option>\n                <option value=\"/listings/hbo-latino-hd\">HBO Latino HD (ch 309)</option>\n                <option value=\"/listings/cinemax\">CineMAX (ch 310)</option>\n                <option value=\"/listings/cinemax-hd\">CineMAX HD (ch 310)</option>\n                <option value=\"/listings/cinemax-hd-pacific\">CineMAX HD (Pacific) (ch 311)</option>\n                <option value=\"/listings/cinemax-pacific\">CineMAX (Pacific) (ch 311)</option>\n                <option value=\"/listings/moremax\">MoreMAX (ch 312)</option>\n                <option value=\"/listings/actionmax\">ActionMAX (ch 313)</option>\n                <option value=\"/listings/actionmax-hd-east\">ActionMAX HD (ch 313)</option>\n                <option value=\"/listings/5-starmax\">5 StarMAX (ch 314)</option>\n                <option value=\"/listings/5-starmax-hd-east\">5 StarMAX HD East (ch 314)</option>\n                <option value=\"/listings/showtime/5129\">Showtime (ch 318)</option>\n                <option value=\"/listings/showtime-hd\">Showtime HD (ch 318)</option>\n                <option value=\"/listings/showtime-hd-pacific\">Showtime HD (Pacific) (ch 319)</option>\n                <option value=\"/listings/showtime-pacific\">Showtime (Pacific) (ch 319)</option>\n                <option value=\"/listings/sho-2\">SHO 2 (ch 320)</option>\n                <option value=\"/listings/sho-2-hd\">SHO 2 HD (ch 320)</option>\n                <option value=\"/listings/showtime-showcase\">Showtime Showcase (ch 321)</option>\n                <option value=\"/listings/showtime-showcase-hd\">Showtime Showcase HD (ch 321)</option>\n                <option value=\"/listings/showtime-extreme\">Showtime Extreme (ch 322)</option>\n                <option value=\"/listings/showtime-beyond\">Showtime Beyond (ch 323)</option>\n                <option value=\"/listings/movie-channel\">The Movie Channel (ch 327)</option>\n                <option value=\"/listings/movie-channel-hd\">The Movie Channel HD (ch 327)</option>\n                <option value=\"/listings/movie-channel-extra\">The Movie Channel Extra (ch 328)</option>\n                <option value=\"/listings/movie-channel-pacific\">The Movie Channel (Pacific) (ch 329)</option>\n                <option value=\"/listings/movie-channel-extra-pacific\">The Movie Channel Extra (Pacific) (ch 330)</option>\n                <option value=\"/listings/flix\">Flix (ch 333)</option>\n                <option value=\"/listings/encore\">Encore (ch 340)</option>\n                <option value=\"/listings/encore-hd\">Encore HD (ch 340)</option>\n                <option value=\"/listings/encore-pacific\">Encore (Pacific) (ch 341)</option>\n                <option value=\"/listings/encore-westerns\">Encore Westerns (ch 342)</option>\n                <option value=\"/listings/encore-action\">Encore Action (ch 343)</option>\n                <option value=\"/listings/encore-mystery\">Encore Suspense (ch 344)</option>\n                <option value=\"/listings/encore-drama\">Encore Black (ch 345)</option>\n                <option value=\"/listings/encore-love\">Encore Classic (ch 346)</option>\n                <option value=\"/listings/encore-wam\">Encore Family (ch 347)</option>\n                <option value=\"/listings/blockbuster-studio-channel\">Dish Studio (ch 349)</option>\n                <option value=\"/listings/starz\">Starz (ch 350)</option>\n                <option value=\"/listings/starz-hd\">Starz HD (ch 350)</option>\n                <option value=\"/listings/starz-pacific\">Starz (Pacific) (ch 351)</option>\n                <option value=\"/listings/starz-hd-pacific\">Starz HD (Pacific) (ch 351)</option>\n                <option value=\"/listings/starz-edge\">Starz Edge (ch 352)</option>\n                <option value=\"/listings/starz-edge-hd\">Starz Edge HD (ch 352)</option>\n                <option value=\"/listings/starz-cinema\">Starz Cinema (ch 353)</option>\n                <option value=\"/listings/starz-comedy\">Starz Comedy (ch 354)</option>\n                <option value=\"/listings/starz-comedy-hd\">Starz Comedy HD (ch 354)</option>\n                <option value=\"/listings/starz-in-black\">Starz in Black (ch 355)</option>\n                <option value=\"/listings/starz-kids\">Starz Kids (ch 356)</option>\n                <option value=\"/listings/starz-kids-hd\">Starz Kids HD (ch 356)</option>\n                <option value=\"/listings/sundance-channel\">SundanceTV (ch 358)</option>\n                <option value=\"/listings/palladia\">Palladia (ch 369)</option>\n                <option value=\"/listings/fashion-tv-hd\">Fashion TV HD (ch 374)</option>\n                <option value=\"/listings/movieplex\">MoviePlex (ch 377)</option>\n                <option value=\"/listings/indieplex-hd\">IndiePlex HD (ch 378)</option>\n                <option value=\"/listings/retroplex-hd\">RetroPlex HD (ch 379)</option>\n                <option value=\"/listings/epix-east\">Epix East (ch 380)</option>\n                <option value=\"/listings/epix-hd\">Epix HD (ch 380)</option>\n                <option value=\"/listings/epix-hd-2\">EPIX 2 HD (ch 381)</option>\n                <option value=\"/listings/epix-2-sd-version\">EPIX 2 (SD Version) (ch 381)</option>\n                <option value=\"/listings/epix-3-sd\">Epix Hits SD (ch 382)</option>\n                <option value=\"/listings/hdnet-movies\">HDNet Movies (ch 383)</option>\n                <option value=\"/listings/fox-movie-channel\">FXM (ch 384)</option>\n                <option value=\"/listings/fox-movie-channel-hd\">FX Movie Channel HD (ch 384)</option>\n                <option value=\"/listings/mgm-hd\">MGM HD (ch 385)</option>\n                <option value=\"/listings/sony-movie-channel-hd\">Sony Movie Channel HD (ch 386)</option>\n                <option value=\"/listings/pixl\">PixL (ch 388)</option>\n                <option value=\"/listings/pixl-sd\">PIXL SD (ch 388)</option>\n                <option value=\"/listings/outside-television-sd\">Outside Television SD (ch 390)</option>\n                <option value=\"/listings/fox-soccer-plus\">Fox Soccer Plus (ch 391)</option>\n                <option value=\"/listings/bein-sport\">beIN Sports (ch 392)</option>\n                <option value=\"/listings/bein-sport-hd\">beIN Sports HD (ch 392)</option>\n                <option value=\"/listings/pursuit-channel\">Pursuit Channel (ch 393)</option>\n                <option value=\"/listings/world-fishing-network-hd-us\">World Fishing Network HD (US) (ch 394)</option>\n                <option value=\"/listings/sportsman-channel\">The Sportsman Channel (ch 395)</option>\n                <option value=\"/listings/sportsman-channel-hd\">The Sportsman Channel HD (ch 395)</option>\n                <option value=\"/listings/outdoor-channel\">Outdoor Channel (ch 396)</option>\n                <option value=\"/listings/fuel-tv\">Fox Sports 2 (ch 397)</option>\n                <option value=\"/listings/horseracing-tv\">HRTV (ch 398)</option>\n                <option value=\"/listings/tv-games-network\">TV Games Network (ch 399)</option>\n                <option value=\"/listings/tennis-channel\">Tennis Channel (ch 400)</option>\n                <option value=\"/listings/tennis-channel-hd\">Tennis Channel HD (ch 400)</option>\n                <option value=\"/listings/golf-channel\">The Golf Channel (ch 401)</option>\n                <option value=\"/listings/golf-channel-hd\">The Golf Channel HD (ch 401)</option>\n                <option value=\"/listings/universal-sports\">Universal Sports (ch 402)</option>\n                <option value=\"/listings/espn-goal-line\">ESPN Goal Line (ch 403)</option>\n                <option value=\"/listings/sec-network\">SEC Network (ch 404)</option>\n                <option value=\"/listings/big-ten-network\">Big Ten Network (ch 405)</option>\n                <option value=\"/listings/pac-12-network\">Pac-12 Network (ch 406)</option>\n                <option value=\"/listings/longhorn-network\">Longhorn Network HD (ch 407)</option>\n                <option value=\"/listings/longhorn-network/17393\">Longhorn Network (ch 407)</option>\n                <option value=\"/listings/fox-sports-san-diego\">Fox Sports San Diego (ch 408)</option>\n                <option value=\"/listings/sec-network-hd\">SEC Network HD (ch 408)</option>\n                <option value=\"/listings/pac-12-network\">Pac-12 Network (ch 409)</option>\n                <option value=\"/listings/big-ten-network\">Big Ten Network (ch 410)</option>\n                <option value=\"/listings/fox-sports-prime-ticket\">Fox Sports Prime Ticket (ch 411)</option>\n                <option value=\"/listings/fox-hd-channel-prime-hd\">Fox HD Channel (Prime HD) (ch 411)</option>\n                <option value=\"/listings/comcast-sportsnet-california\">Comcast SportsNet California (ch 412)</option>\n                <option value=\"/listings/altitude-sports-and-entertainment-networ/3350\">Altitude Sports and Entertainment Networ (ch 412)</option>\n                <option value=\"/listings/fox-sports-prime-ticket\">Fox Sports Prime Ticket (ch 412)</option>\n                <option value=\"/listings/altitude-sports-and-entertainment-networ/3350\">Altitude Sports and Entertainment Networ (ch 413)</option>\n                <option value=\"/listings/altitude-sports-and-entertainment-networ/13095\">Altitude Sports and Entertainment Networ (ch 413)</option>\n                <option value=\"/listings/fox-sports-rocky-mountain\">ROOT Sports Rocky Mountain (ch 414)</option>\n                <option value=\"/listings/fox-sports-rocky-mountain-hd/5892\">ROOT Sports Rocky Mountain HD (ch 414)</option>\n                <option value=\"/listings/fox-sports-arizona-fsaz\">Fox Sports Arizona - FSAZ (ch 415)</option>\n                <option value=\"/listings/fox-sports-net-arizona-hd\">Fox Sports Net Arizona HD (ch 415)</option>\n                <option value=\"/listings/fox-sports-southwest-main-feed\">Fox Sports Southwest (Main Feed) (ch 416)</option>\n                <option value=\"/listings/fox-sports-south-hd-full-time\">Fox Sports South HD(Full Time) (ch 416)</option>\n                <option value=\"/listings/fox-sports-west\">Fox Sports West (ch 417)</option>\n                <option value=\"/listings/fox-sports-west-hd\">Fox Sports West HD (ch 417)</option>\n                <option value=\"/listings/fox-sports-midwest-hd\">Fox Sports Midwest HD (ch 418)</option>\n                <option value=\"/listings/comcast-sportsnet-bay-area\">Comcast SportsNet Bay Area (ch 419)</option>\n                <option value=\"/listings/comcast-sportsnet-bay-area-hd\">Comcast SportsNet Bay Area HD (ch 419)</option>\n                <option value=\"/listings/fox-sports-south-main-feed\">Fox Sports South - Main Feed (ch 420)</option>\n                <option value=\"/listings/fox-sports-south-hd-full-time\">Fox Sports South HD(Full Time) (ch 420)</option>\n                <option value=\"/listings/cox-sports-television\">Cox Sports Television (ch 421)</option>\n                <option value=\"/listings/sun-sports-alt-sun\">Sun Sports (Alt.) - SUN (ch 422)</option>\n                <option value=\"/listings/sun-sports-north-florida-hd\">Sun Sports North Florida HD (ch 422)</option>\n                <option value=\"/listings/fox-sports-florida\">Fox Sports Florida (ch 423)</option>\n                <option value=\"/listings/fox-sports-florida-hd/5501\">Fox Sports Florida HD (ch 423)</option>\n                <option value=\"/listings/comcast-sportsnet-mid-atlantic\">Comcast SportsNet Mid-Atlantic (ch 424)</option>\n                <option value=\"/listings/comcast-sportnet-hd\">Comcast SportsNet Mid-Atlantic HD (ch 424)</option>\n                <option value=\"/listings/fox-sports-ohio-satellite-feed\">Fox Sports Ohio Satellite Feed (ch 425)</option>\n                <option value=\"/listings/fox-sports-ohio-hd-zone-1\">Fox Sports Ohio HD (Zone 1) (ch 425)</option>\n                <option value=\"/listings/fox-sports-northwest\">ROOT Sports Northwest (ch 426)</option>\n                <option value=\"/listings/fox-sports-northwest-hd\">ROOT Sports Northwest HD (ch 426)</option>\n                <option value=\"/listings/fox-sports-ohio-2-cincinnati-feed\">Fox Sports Ohio 2 (Cincinnati feed) (ch 427)</option>\n                <option value=\"/listings/fox-sports-cincinnati-hd\">Fox Sports Cincinnati HD (ch 427)</option>\n                <option value=\"/listings/fox-sports-pittsburgh-main-transponder\">ROOT Sports Pittsburgh (Main Transponder (ch 428)</option>\n                <option value=\"/listings/fox-sports-pittsburgh-hd\">ROOT Sports Pittsburgh HD (ch 428)</option>\n                <option value=\"/listings/comcast-sportsnet-chicago\">Comcast SportsNet Chicago (ch 429)</option>\n                <option value=\"/listings/comcast-sportsnet-chicago-hd\">Comcast SportsNet Chicago HD (ch 429)</option>\n                <option value=\"/listings/fox-sports-detroit-fsd\">Fox Sports Detroit - FSD (ch 430)</option>\n                <option value=\"/listings/fox-sports-detroit-hd\">Fox Sports Detroit HD (ch 430)</option>\n                <option value=\"/listings/sportstime-ohio\">Sportstime Ohio (ch 431)</option>\n                <option value=\"/listings/sportstime-ohio-hd\">Sportstime Ohio HD (ch 431)</option>\n                <option value=\"/listings/masn-mid-atlantic-sports-network\">MASN - Mid Atlantic Sports Network (ch 432)</option>\n                <option value=\"/listings/masn-hd\">MASN HD (ch 432)</option>\n                <option value=\"/listings/mid-atlantic-sports-network-alternate\">Mid Atlantic Sports Network Alternate (ch 433)</option>\n                <option value=\"/listings/new-england-sports-network\">New England Sports Network (ch 434)</option>\n                <option value=\"/listings/new-england-sports-network-digital\">New England Sports Network HD (ch 434)</option>\n                <option value=\"/listings/comcast-sportsnet-new-england\">Comcast SportsNet New England (ch 435)</option>\n                <option value=\"/listings/comcast-sportsnet-new-england-hd\">Comcast SportsNet New England HD (ch 435)</option>\n                <option value=\"/listings/fox-sports-net-north-metro\">Fox Sports North (ch 436)</option>\n                <option value=\"/listings/fs-north-plus-hd\">Fox Sports North HD (ch 436)</option>\n                <option value=\"/listings/sportsouth\">SportSouth (ch 437)</option>\n                <option value=\"/listings/fox-sports-south-hd-full-time\">Fox Sports South HD(Full Time) (ch 437)</option>\n                <option value=\"/listings/comcast-sportsnet-california\">Comcast SportsNet California (ch 438)</option>\n                <option value=\"/listings/big-ten-network\">Big Ten Network (ch 440)</option>\n                <option value=\"/listings/hd-sports\">HD SPORTS (ch 441)</option>\n                <option value=\"/listings/hd-sports\">HD SPORTS (ch 442)</option>\n                <option value=\"/listings/hd-sports\">HD SPORTS (ch 443)</option>\n                <option value=\"/listings/hd-sports\">HD SPORTS (ch 444)</option>\n                <option value=\"/listings/hd-sports\">HD SPORTS (ch 445)</option>\n                <option value=\"/listings/hd-sports\">HD SPORTS (ch 446)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 447)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 448)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 449)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 450)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 451)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 452)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 453)</option>\n                <option value=\"/listings/ppv-ppv454\">PPV-PPV454 (ch 454)</option>\n                <option value=\"/listings/ppv-ppv466\">PPV - PPV466 (ch 466)</option>\n                <option value=\"/listings/ppv-ppv467\">PPV - PPV467 (ch 467)</option>\n                <option value=\"/listings/ppv-ppv468\">PPV - PPV468 (ch 468)</option>\n                <option value=\"/listings/ppv-ppv470\">PPV - PPV470 (ch 470)</option>\n                <option value=\"/listings/ppv-ppv471\">PPV - PPV471 (ch 471)</option>\n                <option value=\"/listings/ppv-ppv472\">PPV - PPV472 (ch 472)</option>\n                <option value=\"/listings/ppv-ppv473\">PPV - PPV473 (ch 473)</option>\n                <option value=\"/listings/ppv-ppv474\">PPV - PPV474 (ch 474)</option>\n                <option value=\"/listings/ppv-ppv476\">PPV - PPV476 (ch 476)</option>\n                <option value=\"/listings/ppv-ppv477\">PPV - PPV477 (ch 477)</option>\n                <option value=\"/listings/ppv-ppv478\">PPV - PPV478 (ch 478)</option>\n                <option value=\"/listings/ppv-ppv479\">PPV - PPV479 (ch 479)</option>\n                <option value=\"/listings/ppv-ppv480\">PPV - PPV480 (ch 480)</option>\n                <option value=\"/listings/ppv-ppv481\">PPV - PPV481 (ch 481)</option>\n                <option value=\"/listings/ppv-ppv482\">PPV - PPV482 (ch 482)</option>\n                <option value=\"/listings/ppv-ppv483\">PPV - PPV483 (ch 483)</option>\n                <option value=\"/listings/ppv-ppv-484\">PPV - PPV 484 (ch 484)</option>\n                <option value=\"/listings/echostar-3-minute-movie-guide\">Echostar 3 Minute Movie Guide (ch 500)</option>\n                <option value=\"/listings/ppvp-pay-per-view-previews\">PPVP/Pay-Per-View Previews (ch 501)</option>\n                <option value=\"/listings/ppv-ppv502\">PPV - PPV502 (ch 502)</option>\n                <option value=\"/listings/ppv-ppv503\">PPV - PPV503 (ch 503)</option>\n                <option value=\"/listings/ppv-ppv504\">PPV - PPV504 (ch 504)</option>\n                <option value=\"/listings/ppv-ppv505\">PPV - PPV505 (ch 505)</option>\n                <option value=\"/listings/ppv-ppv506\">PPV - PPV506 (ch 506)</option>\n                <option value=\"/listings/ppv-ppv507\">PPV - PPV507 (ch 507)</option>\n                <option value=\"/listings/ppv-ppv508\">PPV - PPV508 (ch 508)</option>\n                <option value=\"/listings/ppv-ppv509\">PPV - PPV509 (ch 509)</option>\n                <option value=\"/listings/ppv-ppv510\">PPV - PPV510 (ch 510)</option>\n                <option value=\"/listings/ppv-ppv511\">PPV - PPV511 (ch 511)</option>\n                <option value=\"/listings/ppv-ppv512\">PPV - PPV512 (ch 512)</option>\n                <option value=\"/listings/ppv-ppv513\">PPV - PPV513 (ch 513)</option>\n                <option value=\"/listings/ppv-ppv514\">PPV - PPV514 (ch 514)</option>\n                <option value=\"/listings/ppv-ppv515\">PPV - PPV515 (ch 515)</option>\n                <option value=\"/listings/ppv-ppv516\">PPV - PPV516 (ch 516)</option>\n                <option value=\"/listings/ppv-ppv517\">PPV - PPV517 (ch 517)</option>\n                <option value=\"/listings/ppv-ppv518\">PPV - PPV518 (ch 518)</option>\n                <option value=\"/listings/ppv-ppv519\">PPV - PPV519 (ch 519)</option>\n                <option value=\"/listings/ppv-ppv520\">PPV - PPV520 (ch 520)</option>\n                <option value=\"/listings/ppv-ppv521\">PPV - PPV521 (ch 521)</option>\n                <option value=\"/listings/ppv-ppv522\">PPV - PPV522 (ch 522)</option>\n                <option value=\"/listings/ppv-ppv523\">PPV - PPV523 (ch 523)</option>\n                <option value=\"/listings/ppv-ppv524\">PPV - PPV524 (ch 524)</option>\n                <option value=\"/listings/ppv-ppv525\">PPV - PPV525 (ch 525)</option>\n                <option value=\"/listings/ppv-ppv526\">PPV - PPV526 (ch 526)</option>\n                <option value=\"/listings/ppv-ppv527\">PPV - PPV527 (ch 527)</option>\n                <option value=\"/listings/ppv-ppv528\">PPV - PPV528 (ch 528)</option>\n                <option value=\"/listings/ppv-ppv529\">PPV - PPV529 (ch 529)</option>\n                <option value=\"/listings/ppv-ppv530\">PPV - PPV530 (ch 530)</option>\n                <option value=\"/listings/ppv-ppv531\">PPV - PPV531 (ch 531)</option>\n                <option value=\"/listings/ppv-ppv532\">PPV - PPV532 (ch 532)</option>\n                <option value=\"/listings/ppv-ppv533\">PPV - PPV533 (ch 533)</option>\n                <option value=\"/listings/ppv-ppv534\">PPV - PPV534 (ch 534)</option>\n                <option value=\"/listings/ppv-ppv535\">PPV - PPV535 (ch 535)</option>\n                <option value=\"/listings/ppv-ppv536\">PPV - PPV536 (ch 536)</option>\n                <option value=\"/listings/ppv-ppv537\">PPV - PPV537 (ch 537)</option>\n                <option value=\"/listings/ppv-ppv538\">PPV - PPV538 (ch 538)</option>\n                <option value=\"/listings/ppv-ppv539\">PPV - PPV539 (ch 539)</option>\n                <option value=\"/listings/ppv-ppv540\">PPV - PPV540 (ch 540)</option>\n                <option value=\"/listings/in-demand-hdpv-hd-events\">In Demand PPVHD (HD Events) (ch 541)</option>\n                <option value=\"/listings/ppv-ppv542\">PPV - PPV542 (ch 542)</option>\n                <option value=\"/listings/ppv-ppv543\">PPV - PPV543 (ch 543)</option>\n                <option value=\"/listings/ppv-ppv544\">PPV - PPV544 (ch 544)</option>\n                <option value=\"/listings/ppv-ppv545\">PPV - PPV545 (ch 545)</option>\n                <option value=\"/listings/ppv-ppv546\">PPV - PPV546 (ch 546)</option>\n                <option value=\"/listings/ppv-ppv547\">PPV - PPV547 (ch 547)</option>\n                <option value=\"/listings/ppv-ppv548\">PPV - PPV548 (ch 548)</option>\n                <option value=\"/listings/ppv-ppv549\">PPV - PPV549 (ch 549)</option>\n                <option value=\"/listings/ppv-ppv550\">PPV - PPV550 (ch 550)</option>\n                <option value=\"/listings/ppv-ppv551\">PPV - PPV551 (ch 551)</option>\n                <option value=\"/listings/ppv-ppv552\">PPV - PPV552 (ch 552)</option>\n                <option value=\"/listings/ppv-ppv553\">PPV - PPV553 (ch 553)</option>\n                <option value=\"/listings/ppv-ppv554\">PPV - PPV554 (ch 554)</option>\n                <option value=\"/listings/ppv-ppv555\">PPV - PPV555 (ch 555)</option>\n                <option value=\"/listings/ppv-ppv556\">PPV - PPV556 (ch 556)</option>\n                <option value=\"/listings/ppv-ppv557\">PPV - PPV557 (ch 557)</option>\n                <option value=\"/listings/ppv-ppv558\">PPV - PPV558 (ch 558)</option>\n                <option value=\"/listings/ppv-ppv559\">PPV - PPV559 (ch 559)</option>\n                <option value=\"/listings/nba-tv\">NBA TV (ch 560)</option>\n                <option value=\"/listings/nba-league-pass-1\">NBA League Pass 1 (ch 561)</option>\n                <option value=\"/listings/nba-league-pass-2\">NBA League Pass 2 (ch 562)</option>\n                <option value=\"/listings/nba-league-pass-3\">NBA League Pass 3 (ch 563)</option>\n                <option value=\"/listings/nba-league-pass-4\">NBA League Pass 4 (ch 564)</option>\n                <option value=\"/listings/nba-league-pass-5\">NBA League Pass 5 (ch 565)</option>\n                <option value=\"/listings/nba-league-pass-6\">NBA League Pass 6 (ch 566)</option>\n                <option value=\"/listings/nba-league-pass-7\">NBA League Pass 7 (ch 567)</option>\n                <option value=\"/listings/nba-league-pass-8\">NBA League Pass 8 (ch 568)</option>\n                <option value=\"/listings/nba-league-pass-9\">NBA League Pass 9 (ch 569)</option>\n                <option value=\"/listings/nba-league-pass-10\">NBA League Pass 10 (ch 570)</option>\n                <option value=\"/listings/ppv-ppv571\">PPV - PPV571 (ch 571)</option>\n                <option value=\"/listings/ppv-ppv572\">PPV - PPV572 (ch 572)</option>\n                <option value=\"/listings/big-magic-canada\">Big Magic International (ch 574)</option>\n                <option value=\"/listings/premiere-futebol-clube\">Premiere Futebol Clube (ch 577)</option>\n                <option value=\"/listings/tara-muzik\">TARA Muzik (ch 578)</option>\n                <option value=\"/listings/inter-plus-dish\">Inter Plus (DISH) (ch 579)</option>\n                <option value=\"/listings/information-channel-info580\">Information Channel - INFO580 (ch 580)</option>\n                <option value=\"/listings/aath\">AATH (ch 587)</option>\n                <option value=\"/listings/etv-bangla\">Colors Bangla (ch 590)</option>\n                <option value=\"/listings/zee-telugu\">Zee Telugu (ch 592)</option>\n                <option value=\"/listings/tv-brasil-internacional\">TV Brasil Internacional (ch 597)</option>\n                <option value=\"/listings/rbti\">RBTI (ch 598)</option>\n                <option value=\"/listings/sic-internacional\">SIC Internacional (ch 599)</option>\n                <option value=\"/listings/blue-ocean-network\">Blue Ocean Network (ch 600)</option>\n                <option value=\"/listings/punjjabi-tv\">Punjjabi TV (ch 602)</option>\n                <option value=\"/listings/antenna-satellite-tv-greece\">Antenna 20 Years (ch 605)</option>\n                <option value=\"/listings/zee-smile\">Zee Smile (ch 617)</option>\n                <option value=\"/listings/zee-punjabi-dish\">ZEE PUNJABI (DISH) (ch 622)</option>\n                <option value=\"/listings/masala-tv\">Masala TV (ch 623)</option>\n                <option value=\"/listings/nhl-network/9729\">NHL Network (ch 625)</option>\n                <option value=\"/listings/nhl626\">NHL626 (ch 626)</option>\n                <option value=\"/listings/nhl627\">NHL627 (ch 627)</option>\n                <option value=\"/listings/nhl628\">NHL628 (ch 628)</option>\n                <option value=\"/listings/nhl629\">NHL629 (ch 629)</option>\n                <option value=\"/listings/art-hekayat-2\">ART Hekayat 2 (ch 630)</option>\n                <option value=\"/listings/cinema\">Cinema (ch 631)</option>\n                <option value=\"/listings/ten-egypt\">TEN Egypt (ch 632)</option>\n                <option value=\"/listings/art-aflam-1\">ART Aflam 1 (ch 633)</option>\n                <option value=\"/listings/art-aflam-2\">ART Aflam 2 (ch 634)</option>\n                <option value=\"/listings/art-america\">Art America (ch 635)</option>\n                <option value=\"/listings/art-movies-arabic-for-dish\">Art Movies (Arabic for DISH) (ch 636)</option>\n                <option value=\"/listings/al-hayah-cinema\">Cima (ch 637)</option>\n                <option value=\"/listings/aljz-al-jazeera-arabic\">Al Jazeera (Arabic) (ch 638)</option>\n                <option value=\"/listings/al-arabyia-international\">Al Arabiya (International) (ch 639)</option>\n                <option value=\"/listings/mbc-usa\">MBC USA (ch 640)</option>\n                <option value=\"/listings/mtv-lebanon\">Murr TV (ch 641)</option>\n                <option value=\"/listings/nile-tv\">Nile Drama (ch 642)</option>\n                <option value=\"/listings/art-hikayat\">ART Hekayat (ch 643)</option>\n                <option value=\"/listings/egyptian-satellite-channel\">Al Masriyah(ESC1) (ch 644)</option>\n                <option value=\"/listings/el-tahrir\">Al Tahrir (ch 645)</option>\n                <option value=\"/listings/orbit-al-yaum\">Orbit Al Yawm (ch 646)</option>\n                <option value=\"/listings/al-hayah-1\">Al Hayah 1 (ch 647)</option>\n                <option value=\"/listings/dream-2\">Dream 2 (ch 648)</option>\n                <option value=\"/listings/future-television-skyvista\">Future Television - Skyvista (ch 649)</option>\n                <option value=\"/listings/al-jadeed\">New TV (ch 650)</option>\n                <option value=\"/listings/otv\">OTV (ch 651)</option>\n                <option value=\"/listings/nbn-international\">NBN (International) (ch 652)</option>\n                <option value=\"/listings/al-ahly\">Al Ahly (ch 655)</option>\n                <option value=\"/listings/mbc-masr\">MBC MASR (ch 656)</option>\n                <option value=\"/listings/saudi-one-sports\">Saudi One Sports (ch 657)</option>\n                <option value=\"/listings/bbc-arabic\">BBC Arabic (ch 658)</option>\n                <option value=\"/listings/dubai-sports\">Dubai Sports (ch 659)</option>\n                <option value=\"/listings/artmusic\">ARTMUSIC (ch 660)</option>\n                <option value=\"/listings/wow-tv-dish\">WOW-TV (DISH) (ch 661)</option>\n                <option value=\"/listings/arabica\">Arabica (ch 662)</option>\n                <option value=\"/listings/afrotainment-music\">Afrotainment Music (ch 667)</option>\n                <option value=\"/listings/jstv-epg\">JSTV EPG (ch 668)</option>\n                <option value=\"/listings/mbc-drama-usa\">MBC Drama USA (ch 669)</option>\n                <option value=\"/listings/mbc-kids\">MBC Kids (ch 670)</option>\n                <option value=\"/listings/rotana-cinema\">Rotana America (ch 671)</option>\n                <option value=\"/listings/dandana-tv\">Dandana TV (ch 672)</option>\n                <option value=\"/listings/m-life\">M Life (ch 673)</option>\n                <option value=\"/listings/geo-tv\">GEO TV (ch 676)</option>\n                <option value=\"/listings/arydi-ary-digital\">ARYDI (ARY Digital) (ch 677)</option>\n                <option value=\"/listings/geo-tv\">GEO TV (ch 678)</option>\n                <option value=\"/listings/ptv-global\">PTV Global (ch 679)</option>\n                <option value=\"/listings/tvone-global\">TVONE Global (ch 680)</option>\n                <option value=\"/listings/geo-news\">Geo News (ch 681)</option>\n                <option value=\"/listings/ary-news\">ARY News (ch 682)</option>\n                <option value=\"/listings/express-news\">Express News (ch 683)</option>\n                <option value=\"/listings/playmax\">Playmax (ch 684)</option>\n                <option value=\"/listings/aag-usa\">AAG USA (ch 685)</option>\n                <option value=\"/listings/ary-digital-the-musik\">ARY Digital The Musik (ch 686)</option>\n                <option value=\"/listings/ary-zauq\">ARY Zauq (ch 687)</option>\n                <option value=\"/listings/ary-zauq\">ARY Zauq (ch 688)</option>\n                <option value=\"/listings/qtv-pakistan\">QTV Pakistan (ch 689)</option>\n                <option value=\"/listings/dunya-tv-usa\">Dunya TV USA (ch 690)</option>\n                <option value=\"/listings/express-entertainment\">Express Entertainment (ch 691)</option>\n                <option value=\"/listings/zee-tv-usa-inc\">Zee TV USA, Inc. (ch 694)</option>\n                <option value=\"/listings/set-asia-international\">SET - Asia International (ch 695)</option>\n                <option value=\"/listings/star-plus-us\">STAR PLUS US (ch 696)</option>\n                <option value=\"/listings/colors-us\">AAPKA Colors US (ch 697)</option>\n                <option value=\"/listings/star-one-us\">LIFE OK US (ch 698)</option>\n                <option value=\"/listings/rishtey\">Rishtey (ch 699)</option>\n                <option value=\"/listings/tv-asia\">TV Asia (ch 700)</option>\n                <option value=\"/listings/sab-uk\">SAB USA (ch 701)</option>\n                <option value=\"/listings/sahara-one-delay-feed\">Sahara One Delay Feed (ch 702)</option>\n                <option value=\"/listings/zee-cinema\">Zee Cinema (ch 703)</option>\n                <option value=\"/listings/set-max-dish\">Set Max (DISH) (ch 704)</option>\n                <option value=\"/listings/kbs-world-korean\">ALL TV (KOREA) (ch 704)</option>\n                <option value=\"/listings/b4u-fpc\">B4U Movies (ch 705)</option>\n                <option value=\"/listings/arang-arirang-tv-korea-world-network\">ARANG (Arirang TV, Korea World Network) (ch 705)</option>\n                <option value=\"/listings/aaj-tak\">AAJ TAK (ch 706)</option>\n                <option value=\"/listings/sahara-samay-rashtriya\">SAHARA SAMAY RASHTRIYA (ch 707)</option>\n                <option value=\"/listings/zee-business\">Zee Business (ch 708)</option>\n                <option value=\"/listings/times-now\">Times Now (ch 709)</option>\n                <option value=\"/listings/headlines-today-dish\">Headlines Today (DISH) (ch 710)</option>\n                <option value=\"/listings/willow-tv\">Willow Cricket (ch 712)</option>\n                <option value=\"/listings/neo-cricket\">Willow Plus (ch 713)</option>\n                <option value=\"/listings/zee-smile\">Zee Smile (ch 714)</option>\n                <option value=\"/listings/zoom\">Zoom (ch 715)</option>\n                <option value=\"/listings/b4u-music-usa\">B4U Music USA (ch 716)</option>\n                <option value=\"/listings/zing-usa\">Zing USA (ch 717)</option>\n                <option value=\"/listings/mtv-india\">MTV India (ch 718)</option>\n                <option value=\"/listings/artmusic\">ARTMUSIC (ch 720)</option>\n                <option value=\"/listings/sanskar-tv\">Sanskar TV (ch 721)</option>\n                <option value=\"/listings/ndtv-24x7\">NDTV 24x7 (ch 723)</option>\n                <option value=\"/listings/ndtv-good-times\">NDTV Good Times (ch 724)</option>\n                <option value=\"/listings/big-magic-canada\">Big Magic International (ch 725)</option>\n                <option value=\"/listings/sony-mix\">Sony MIX (ch 726)</option>\n                <option value=\"/listings/movies-ok-us\">Movies OK (US) (ch 727)</option>\n                <option value=\"/listings/alpha-punjabi-television\">ATN Alpha ETC Punjabi (ch 735)</option>\n                <option value=\"/listings/jus-punjabi\">Jus Punjabi (ch 736)</option>\n                <option value=\"/listings/ptc-punjabi-tv\">PTC Punjabi TV (ch 737)</option>\n                <option value=\"/listings/atn-get-punjabi\">ATN Punjabi Plus (ch 738)</option>\n                <option value=\"/listings/gpunjab-newstime\">Gpunjab-Newstime (ch 739)</option>\n                <option value=\"/listings/mh1-music-hits-1\">MH1 Music Hits 1 (ch 740)</option>\n                <option value=\"/listings/jus-one\">JUS ONE (ch 741)</option>\n                <option value=\"/listings/israkids\">IsraKids (ch 742)</option>\n                <option value=\"/listings/good-life-channel-israel\">Good Life Channel Israel (ch 743)</option>\n                <option value=\"/listings/etv-bangla\">Colors Bangla (ch 745)</option>\n                <option value=\"/listings/tara-muzik\">TARA Muzik (ch 746)</option>\n                <option value=\"/listings/aath\">AATH (ch 747)</option>\n                <option value=\"/listings/tv5-news\">TV5 News (ch 749)</option>\n                <option value=\"/listings/maasranga-tv\">Maasranga TV (ch 750)</option>\n                <option value=\"/listings/sun-tv\">Sun TV (ch 753)</option>\n                <option value=\"/listings/star-vijay\">STAR VIJAY (ch 754)</option>\n                <option value=\"/listings/jaya-tv\">ATN Jaya TV (ch 755)</option>\n                <option value=\"/listings/sirippoli-tv\">Sirippoli TV (ch 756)</option>\n                <option value=\"/listings/k-tv-dish\">K-TV (Dish) (ch 757)</option>\n                <option value=\"/listings/kalaignar-tv\">Kalaignar TV (ch 758)</option>\n                <option value=\"/listings/jaya-max\">Jaya Max (ch 759)</option>\n                <option value=\"/listings/jaya-plus\">Jaya Plus (ch 760)</option>\n                <option value=\"/listings/adithya-tv\">Adithya TV (ch 761)</option>\n                <option value=\"/listings/sun-music-tv\">Sun Music TV (ch 761)</option>\n                <option value=\"/listings/jaya-movies\">Jaya Movies (ch 763)</option>\n                <option value=\"/listings/maa-music\">Maa Music (ch 764)</option>\n                <option value=\"/listings/gemini-tv\">Gemini TV (ch 765)</option>\n                <option value=\"/listings/maa-tv\">MAA TV (ch 766)</option>\n                <option value=\"/listings/telugu\">Telugu (ch 767)</option>\n                <option value=\"/listings/teja-tv\">Gemini Movies (ch 768)</option>\n                <option value=\"/listings/tv9-telugu\">TV9 Telugu (ch 769)</option>\n                <option value=\"/listings/gemini-comedy\">Gemini Comedy (ch 770)</option>\n                <option value=\"/listings/zee-telugu\">Zee Telugu (ch 772)</option>\n                <option value=\"/listings/maa-gold\">Maa Gold (ch 773)</option>\n                <option value=\"/listings/maa-movies\">Maa Movies (ch 774)</option>\n                <option value=\"/listings/aghapy-tv\">Aghapy TV (ch 775)</option>\n                <option value=\"/listings/udaya-tv-dish\">UDAYA TV (Dish) (ch 777)</option>\n                <option value=\"/listings/zee-kannada\">Zee Kannada (ch 778)</option>\n                <option value=\"/listings/zee-marathi\">Zee Marathi (ch 779)</option>\n                <option value=\"/listings/etv-marathi\">Colors Marathi (ch 780)</option>\n                <option value=\"/listings/surya-tv\">Surya TV (ch 782)</option>\n                <option value=\"/listings/kairali\">Kairali (ch 783)</option>\n                <option value=\"/listings/tv9-kannada\">TV9 Kannada (ch 783)</option>\n                <option value=\"/listings/asianet\">Asianet (ch 784)</option>\n                <option value=\"/listings/kiran-tv\">Kiran TV (ch 786)</option>\n                <option value=\"/listings/asianet-news/18789\">Asianet News (ch 787)</option>\n                <option value=\"/listings/asianet-movies\">Asianet Movies (ch 788)</option>\n                <option value=\"/listings/mazhavil-manorama\">Mazhavil Manorama (ch 789)</option>\n                <option value=\"/listings/ntv1-echostar-ntv-international-chann\">NTV1 (Echostar) NTV International Channe (ch 790)</option>\n                <option value=\"/listings/channel-i-usa-dish\">Channel - I USA (DISH) (ch 791)</option>\n                <option value=\"/listings/atn-bangla\">ATN Bangla (ch 792)</option>\n                <option value=\"/listings/banglavision\">BanglaVision (ch 794)</option>\n                <option value=\"/listings/cinebangla\">CineBangla (ch 795)</option>\n                <option value=\"/listings/udaya-tv-dish\">UDAYA TV (Dish) (ch 803)</option>\n                <option value=\"/listings/tv9-telugu\">TV9 Telugu (ch 807)</option>\n                <option value=\"/listings/record-international\">Record International (ch 815)</option>\n                <option value=\"/listings/sic-noticias\">SIC Noticias (ch 817)</option>\n                <option value=\"/listings/muzak-mojito\">Muzak: Mojito (ch 820)</option>\n                <option value=\"/listings/muzak-la-musica\">Muzak: La Musica (ch 821)</option>\n                <option value=\"/listings/babyfirst-tv\">BabyFirst TV (ch 823)</option>\n                <option value=\"/listings/baby-tv\">Baby TV Latin America (ch 824)</option>\n                <option value=\"/listings/azteca-america-network-eastern\">Azteca America Network (ch 825)</option>\n                <option value=\"/listings/wapa-america\">WAPA America (ch 826)</option>\n                <option value=\"/listings/univision-network\">Univision Network (ch 827)</option>\n                <option value=\"/listings/univision-network-pacific\">Univision Network (Pacific) (ch 828)</option>\n                <option value=\"/listings/local-origination-loor829\">Local Origination - LOOR829 (ch 829)</option>\n                <option value=\"/listings/telefutura-satellite-feed\">UniMas Satellite Feed (ch 830)</option>\n                <option value=\"/listings/telefutura-west-satellite-feed\">UniMas Satellite Feed (Pacific) (ch 831)</option>\n                <option value=\"/listings/telefutura-network-pacific-hd\">UniMas HD (Pacific) (ch 831)</option>\n                <option value=\"/listings/centroamerica-tv\">Centroamerica TV (ch 832)</option>\n                <option value=\"/listings/galavision-cable-network\">Galavision Cable Network (ch 833)</option>\n                <option value=\"/listings/pasiones-tv-us\">Pasiones TV US (ch 834)</option>\n                <option value=\"/listings/telemundo-television-network\">Telemundo Television Network (ch 835)</option>\n                <option value=\"/listings/telemundo-network-pacific\">Telemundo Television Network (Pacific) (ch 836)</option>\n                <option value=\"/listings/univision-tl-novelas\">Univision TL Novelas (ch 837)</option>\n                <option value=\"/listings/mun2\">NBC Universo (ch 838)</option>\n                <option value=\"/listings/teleamazonas-international\">TeleAmazonas International (ch 839)</option>\n                <option value=\"/listings/tve-america-television-espanola\">TVE America Television Española (ch 840)</option>\n                <option value=\"/listings/tv-colombia\">RCN Nuestra Tele (ch 841)</option>\n                <option value=\"/listings/caracol-international\">CARACOL INTERNATIONAL (ch 842)</option>\n                <option value=\"/listings/utilisima-us-hispanic\">FoxLife US (ch 842)</option>\n                <option value=\"/listings/hitn\">HITN (ch 843)</option>\n                <option value=\"/listings/dominicana\">DOMINICANA (ch 844)</option>\n                <option value=\"/listings/discovery-en-espanol\">Discovery en Español (ch 845)</option>\n                <option value=\"/listings/v-me\">V-Me (ch 846)</option>\n                <option value=\"/listings/foro-tv-us-feed\">Foro TV US Feed (ch 847)</option>\n                <option value=\"/listings/cbeebies-tv\">Cbeebies TV (ch 848)</option>\n                <option value=\"/listings/history-channel-en-espanol\">History Channel En Español (ch 850)</option>\n                <option value=\"/listings/discovery-familia-en-espanol\">Discovery Familia En Español (ch 853)</option>\n                <option value=\"/listings/espn-deportes\">ESPN Deportes (ch 854)</option>\n                <option value=\"/listings/fox-sports-en-espanol\">Fox Deportes (ch 855)</option>\n                <option value=\"/listings/canal-sur\">Canal Sur (ch 857)</option>\n                <option value=\"/listings/teleformula\">Teleformula (ch 858)</option>\n                <option value=\"/listings/nat-geo-mundo\">Nat Geo Mundo (ch 861)</option>\n                <option value=\"/listings/de-pelicula-us-feed\">De Pelicula US Feed (ch 862)</option>\n                <option value=\"/listings/de-pelicula-clasico\">De Pelicula Clasico (ch 863)</option>\n                <option value=\"/listings/cine-latino-us\">Cine Latino US (ch 865)</option>\n                <option value=\"/listings/bandamax-us-feed\">BandaMax US Feed (ch 867)</option>\n                <option value=\"/listings/telehit-usa-feed\">Telehit USA feed (ch 868)</option>\n                <option value=\"/listings/univision-deportes-network\">Univision Deportes Network (ch 869)</option>\n                <option value=\"/listings/univision-deportes-2-network\">Univision Deportes 2 Network (ch 870)</option>\n                <option value=\"/listings/mtv-tres\">Tr3s: MTV, Musica y Mas (ch 872)</option>\n                <option value=\"/listings/boomerang\">Boomerang (ch 873)</option>\n                <option value=\"/listings/bein-sport-en-espanol\">beIN Sports En Español (ch 873)</option>\n                <option value=\"/listings/bein-sport-en-espanol-hd\">beIN Sports En Español HD (ch 873)</option>\n                <option value=\"/listings/dn9644\">VALU has the best products offered on TV (ch 875)</option>\n                <option value=\"/listings/satellite-response-network-4\">Shop IDEA for the products you want and (ch 883)</option>\n                <option value=\"/listings/cctv-espanol\">CCTV Español (ch 884)</option>\n                <option value=\"/listings/game-1\">GAME 1 (ch 885)</option>\n                <option value=\"/listings/game-2\">GAME 2 (ch 886)</option>\n                <option value=\"/listings/game-3\">GAME 3 (ch 887)</option>\n                <option value=\"/listings/game-4\">GAME 4 (ch 888)</option>\n                <option value=\"/listings/game-5\">GAME 5 (ch 889)</option>\n                <option value=\"/listings/game-6\">GAME 6 (ch 890)</option>\n                <option value=\"/listings/game-7\">GAME 7 (ch 891)</option>\n                <option value=\"/listings/game-8\">GAME 8 (ch 892)</option>\n                <option value=\"/listings/game-9\">GAME 9 (ch 893)</option>\n                <option value=\"/listings/game-10\">GAME 10 (ch 894)</option>\n                <option value=\"/listings/game-11\">GAME 11 (ch 895)</option>\n                <option value=\"/listings/game-12\">GAME 12 (ch 896)</option>\n                <option value=\"/listings/game-13\">GAME 13 (ch 897)</option>\n                <option value=\"/listings/game-14\">GAME 14 (ch 898)</option>\n                <option value=\"/listings/etv-kannada\">Colors Kannada (ch 905)</option>\n                <option value=\"/listings/wnbc-nbc\">WNBC (NBC) (ch 907)</option>\n                <option value=\"/listings/kntv-nbc\">KNTV (NBC) (ch 908)</option>\n                <option value=\"/listings/wcbs-cbs\">WCBS (CBS) (ch 909)</option>\n                <option value=\"/listings/kpix-cbs\">KPIX (CBS) (ch 910)</option>\n                <option value=\"/listings/wabc-abc\">WABC (ABC) (ch 911)</option>\n                <option value=\"/listings/kgo-abc\">KGO (ABC) (ch 912)</option>\n                <option value=\"/listings/wnyw-fox\">WNYW (FOX) (ch 913)</option>\n                <option value=\"/listings/ktvu-fox\">KTVU (FOX) (ch 914)</option>\n                <option value=\"/listings/pbs-hd\">PBS HD (ch 915)</option>\n                <option value=\"/listings/wpix-cw\">WPIX (CW) (ch 916)</option>\n                <option value=\"/listings/ktla-cw\">KTLA (CW) (ch 918)</option>\n                <option value=\"/listings/wsfl-cw\">WSFL (CW) (ch 919)</option>\n                <option value=\"/listings/audio-cd-city-lights\">Audio CD: City Lights (ch 927)</option>\n                <option value=\"/listings/audio-cd-gumbo\">Audio CD: The Party Play List (ch 929)</option>\n                <option value=\"/listings/audio-cd-shag-beach\">Audio CD: The Beach (ch 936)</option>\n                <option value=\"/listings/tropical-breeze\">Tropical Breeze (ch 945)</option>\n                <option value=\"/listings/audio-cd-ensembles\">Audio CD: Ensembles (ch 971)</option>\n                <option value=\"/listings/information-channel-info988\">Information Channel - INFO988 (ch 988)</option>\n                <option value=\"/listings/information-channel-info998\">Information Channel - INFO998 (ch 998)</option>\n                <option value=\"/listings/weather-channel-hd\">The Weather Channel HD (ch 4929)</option>\n                <option value=\"/listings/fox-soccer-channel\">FXX (ch 4943)</option>\n                <option value=\"/listings/fox-soccer-channel-hd\">FXX HD (ch 4943)</option>\n                <option value=\"/listings/msnbc\">MSNBC (ch 4956)</option>\n                <option value=\"/listings/msnbc-hd\">MSNBC HD (ch 4956)</option>\n                <option value=\"/listings/fox-soccer-channel\">FXX (ch 5034)</option>\n                <option value=\"/listings/fox-soccer-channel-hd\">FXX HD (ch 5034)</option>\n                <option value=\"/listings/weather-channel-hd\">The Weather Channel HD (ch 5047)</option>\n                <option value=\"/listings/espnews\">ESPNEWS (ch 5301)</option>\n                <option value=\"/listings/espn2\">ESPN2 (ch 5302)</option>\n                <option value=\"/listings/we-tv-hd\">WE tv HD (ch 5304)</option>\n                <option value=\"/listings/fox-soccer-channel\">FXX (ch 5306)</option>\n                <option value=\"/listings/fox-soccer-channel-hd\">FXX HD (ch 5306)</option>\n                <option value=\"/listings/independent-film-channel-hd\">IFC HD (ch 5307)</option>\n                <option value=\"/listings/weather-channel-hd\">The Weather Channel HD (ch 5367)</option>\n                <option value=\"/listings/fox-sports-san-diego-hd\">Fox Sports San Diego HD (ch 5408)</option>\n                <option value=\"/listings/comcast-sportsnet-california-hd\">Comcast SportsNet California HD (ch 5409)</option>\n                <option value=\"/listings/altitude-sports-and-entertainment-networ/13095\">Altitude Sports and Entertainment Networ (ch 5410)</option>\n                <option value=\"/listings/fox-hd-channel-prime-hd\">Fox HD Channel (Prime HD) (ch 5411)</option>\n                <option value=\"/listings/fox-sports-rocky-mountain-hd/5892\">ROOT Sports Rocky Mountain HD (ch 5414)</option>\n                <option value=\"/listings/fox-sports-arizona-hd\">Fox Sports Arizona HD (ch 5415)</option>\n                <option value=\"/listings/fox-sports-southwest-hd\">Fox Sports Southwest HD (ch 5416)</option>\n                <option value=\"/listings/fox-sports-west-hd\">Fox Sports West HD (ch 5417)</option>\n                <option value=\"/listings/fox-sports-midwest-hd-full-time\">Fox Sports Midwest HD Full Time (ch 5418)</option>\n                <option value=\"/listings/comcast-sportsnet-bay-area-w-sign-offs\">Comcast SportsNet Bay Area HD W/ Sign Of (ch 5419)</option>\n                <option value=\"/listings/fox-sports-south-hd-full-time\">Fox Sports South HD(Full Time) (ch 5420)</option>\n                <option value=\"/listings/big-ten-network-overflow\">Big Ten Network Overflow (ch 5440)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5441)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5442)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5443)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5453)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5454)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5455)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5456)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5457)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5458)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5459)</option>\n                <option value=\"/listings/sports-alternate-message-channel\">Sports Alternate Message Channel (ch 5460)</option>\n                <option value=\"/listings/msnbc\">MSNBC (ch 5498)</option>\n                <option value=\"/listings/msnbc-hd\">MSNBC HD (ch 5498)</option>\n                <option value=\"/listings/nfl-network-hd\">NFL Network HD (ch 5507)</option>\n                <option value=\"/listings/travel-channel-hd\">The Travel Channel HD (ch 5508)</option>\n                <option value=\"/listings/national-geographic-hd\">National Geographic Channel HD (ch 5518)</option>\n                <option value=\"/listings/weather-channel-hd\">The Weather Channel HD (ch 5537)</option>\n                <option value=\"/listings/fox-soccer-channel\">FXX (ch 5560)</option>\n                <option value=\"/listings/fox-soccer-channel-hd\">FXX HD (ch 5560)</option>\n                <option value=\"/listings/ntv-america-htb\">NTV America (HTB) (ch 5717)</option>\n                <option value=\"/listings/wnbc-nbc\">WNBC (NBC) (ch 5731)</option>\n                <option value=\"/listings/kntv-nbc\">KNTV (NBC) (ch 5732)</option>\n                <option value=\"/listings/wcbs-cbs\">WCBS (CBS) (ch 5733)</option>\n                <option value=\"/listings/kpix-cbs\">KPIX (CBS) (ch 5734)</option>\n                <option value=\"/listings/wabc-abc\">WABC (ABC) (ch 5735)</option>\n                <option value=\"/listings/kgo-abc\">KGO (ABC) (ch 5736)</option>\n                <option value=\"/listings/wnyw-fox\">WNYW (FOX) (ch 5737)</option>\n                <option value=\"/listings/ktvu-fox\">KTVU (FOX) (ch 5738)</option>\n                <option value=\"/listings/sirius-the-grateful-dead-channel\">SIRIUS: The Grateful Dead Channel (ch 6023)</option>\n                <option value=\"/listings/bridge\">The Bridge (ch 6032)</option>\n                <option value=\"/listings/lithium\">Lithium (ch 6034)</option>\n                <option value=\"/listings/sirius-xm-limited-engagements\">SIRIUS XM Limited Engagements (ch 6065)</option>\n                <option value=\"/listings/bb-kings-bluesville\">BB King's Bluesville (ch 6070)</option>\n                <option value=\"/listings/al-hayah-series\">Al Hayah Series (ch 7004)</option>\n                <option value=\"/listings/arabica\">Arabica (ch 7158)</option>\n                <option value=\"/listings/kabc-abc7-abc\">KABC (ABC) (ch 8000)</option>\n                <option value=\"/listings/kcbs-cbs\">KCBS (CBS) (ch 8001)</option>\n                <option value=\"/listings/knbc-nbc\">KNBC (NBC) (ch 8002)</option>\n                <option value=\"/listings/kttv-fox\">KTTV (FOX) (ch 8003)</option>\n                <option value=\"/listings/ktla-cw\">KTLA (CW) (ch 8004)</option>\n                <option value=\"/listings/kcop-upn-13-mynetworktv\">KCOP (MyNetworkTV) (ch 8005)</option>\n                <option value=\"/listings/kcet-pbs\">KCET (ch 8006)</option>\n                <option value=\"/listings/kcal\">KCAL (ch 8007)</option>\n                <option value=\"/listings/wabc-abc\">WABC (ABC) (ch 8100)</option>\n                <option value=\"/listings/wcbs-cbs\">WCBS (CBS) (ch 8101)</option>\n                <option value=\"/listings/wnbc-nbc\">WNBC (NBC) (ch 8102)</option>\n                <option value=\"/listings/wnyw-fox\">WNYW (FOX) (ch 8103)</option>\n                <option value=\"/listings/wpix-cw\">WPIX (CW) (ch 8104)</option>\n                <option value=\"/listings/wnet-pbs\">WNET (PBS) (ch 8106)</option>\n                <option value=\"/listings/kmgh-abc\">KMGH (ABC) (ch 8200)</option>\n                <option value=\"/listings/kcnc-cbs\">KCNC (CBS) (ch 8201)</option>\n                <option value=\"/listings/kusa-nbc\">KUSA (NBC) (ch 8202)</option>\n                <option value=\"/listings/kdvr-fox\">KDVR (FOX) (ch 8203)</option>\n                <option value=\"/listings/kwgn-cw\">KWGN (CW) (ch 8204)</option>\n                <option value=\"/listings/ktvd-mynetworktv\">KTVD (MyNetworkTV) (ch 8205)</option>\n                <option value=\"/listings/krma-pbs\">KRMA (PBS) (ch 8206)</option>\n                <option value=\"/listings/wsb-abc\">WSB (ABC) (ch 8300)</option>\n                <option value=\"/listings/wgcl-cbs\">WGCL (CBS) (ch 8301)</option>\n                <option value=\"/listings/wxia-nbc\">WXIA (NBC) (ch 8302)</option>\n                <option value=\"/listings/waga-fox\">WAGA (FOX) (ch 8303)</option>\n                <option value=\"/listings/gptv-pbs\">WGTV (PBS) (ch 8306)</option>\n                <option value=\"/listings/wfaa-abc\">WFAA (ABC) (ch 8400)</option>\n                <option value=\"/listings/ktvt-cbs\">KTVT (CBS) (ch 8401)</option>\n                <option value=\"/listings/kxas-nbc\">KXAS (NBC) (ch 8402)</option>\n                <option value=\"/listings/kdfw-fox\">KDFW (FOX) (ch 8403)</option>\n                <option value=\"/listings/kdtn\">KDTN (ch 8415)</option>\n                <option value=\"/listings/wls-abc\">WLS (ABC) (ch 8490)</option>\n                <option value=\"/listings/wbbm-cbs\">WBBM (CBS) (ch 8491)</option>\n                <option value=\"/listings/wmaq-nbc\">WMAQ (NBC) (ch 8492)</option>\n                <option value=\"/listings/wfld-fox\">WFLD (FOX) (ch 8493)</option>\n                <option value=\"/listings/wttw-pbs\">WTTW (PBS) (ch 8496)</option>\n                <option value=\"/listings/wsbk\">WSBK (ch 8775)</option>\n                <option value=\"/listings/kyne-pbs\">KYNE (PBS) (ch 9147)</option>\n                <option value=\"/listings/3-angels-broadcasting-network\">3 Angels Broadcasting Network (ch 9393)</option>\n                <option value=\"/listings/kids-and-teens-television\">Kids and Teens Television (ch 9394)</option>\n                <option value=\"/listings/angel-two\">Angel Two (ch 9395)</option>\n                <option value=\"/listings/impact-television-network\">Impact TV (ch 9397)</option>\n                <option value=\"/listings/rfd-tv\">RFD TV (ch 9398)</option>\n                <option value=\"/listings/christian-television-network\" selected=\"selected\">Christian Television Network (ch 9399)</option>\n                <option value=\"/listings/hitn\">HITN (ch 9401)</option>\n                <option value=\"/listings/health-and-human-services-network\">Health and Human Services Network (ch 9402)</option>\n                <option value=\"/listings/byu-tv\">BYU-TV (ch 9403)</option>\n                <option value=\"/listings/cspan\">CSPAN (ch 9404)</option>\n                <option value=\"/listings/classic-arts-showcase\">Classic Arts Showcase (ch 9406)</option>\n                <option value=\"/listings/colours-tv\">CoLours TV (ch 9407)</option>\n                <option value=\"/listings/starfish-television-network\">Starfish Television Network (ch 9408)</option>\n                <option value=\"/listings/trinity-broadcasting-network\">Trinity Broadcasting Network (ch 9409)</option>\n                <option value=\"/listings/link-tv\">Link TV (ch 9410)</option>\n                <option value=\"/listings/enlace\">Enlace (ch 9411)</option>\n                <option value=\"/listings/university-of-california-channel-uctvd\">University of California Channel(UCTVD) (ch 9412)</option>\n                <option value=\"/listings/almavision-electronica-dish\">Almavision Electronica (Dish) (ch 9413)</option>\n                <option value=\"/listings/v-me\">V-Me (ch 9414)</option>\n                <option value=\"/listings/free-speech-tv\">Free Speech TV (ch 9415)</option>\n                <option value=\"/listings/nickelodeon-hd\">Nickelodeon HD (ch 9416)</option>\n                <option value=\"/listings/amc-hd\">AMC HD (ch 9417)</option>\n                <option value=\"/listings/aande-hd-east\">A&amp;E Network HD East (ch 9419)</option>\n                <option value=\"/listings/tnthd-tnt-hd\">Turner Network TV HD (ch 9420)</option>\n                <option value=\"/listings/hd-theater\">Velocity (ch 9421)</option>\n                <option value=\"/listings/hdnet\">AXS TV (ch 9422)</option>\n                <option value=\"/listings/hdnet-movies\">HDNet Movies (ch 9423)</option>\n                <option value=\"/listings/espnhd\">ESPNHD (ch 9424)</option>\n                <option value=\"/listings/espn2-hd\">ESPN2 HD (ch 9425)</option>\n                <option value=\"/listings/nfl-network-hd\">NFL Network HD (ch 9426)</option>\n                <option value=\"/listings/universal-hd\">Universal HD (ch 9427)</option>\n                <option value=\"/listings/in-demand-hdpv-hd-events\">In Demand PPVHD (HD Events) (ch 9428)</option>\n                <option value=\"/listings/national-geographic-hd\">National Geographic Channel HD (ch 9429)</option>\n                <option value=\"/listings/trutv-hd\">truTV HD (ch 9430)</option>\n                <option value=\"/listings/usa-network-hd\">USA Network HD (ch 9431)</option>\n                <option value=\"/listings/syfy-hd\">Syfy HD (ch 9432)</option>\n                <option value=\"/listings/mlb-network-hd\">MLB Network HD (ch 9434)</option>\n                <option value=\"/listings/starz-hd\">Starz HD (ch 9435)</option>\n                <option value=\"/listings/cnn-hd\">CNN HD (ch 9436)</option>\n                <option value=\"/listings/travel-channel-hd\">The Travel Channel HD (ch 9437)</option>\n                <option value=\"/listings/weather-channel-hd\">The Weather Channel HD (ch 9438)</option>\n                <option value=\"/listings/cnbc-hd\">CNBC HD (ch 9439)</option>\n                <option value=\"/listings/cinemax-hd-pacific\">CineMAX HD (Pacific) (ch 9440)</option>\n                <option value=\"/listings/5-starmax-hd-east\">5 StarMAX HD East (ch 9441)</option>\n                <option value=\"/listings/tennis-channel-hd\">Tennis Channel HD (ch 9442)</option>\n                <option value=\"/listings/hallmark-movie-channel-hd\">Hallmark Movies &amp; Mysteries HD (ch 9444)</option>\n                <option value=\"/listings/wgn-sat-hd\">WGN America HD (ch 9446)</option>\n                <option value=\"/listings/gsn-hd\">GSN HD (ch 9448)</option>\n                <option value=\"/listings/hbo-comedy-hd\">HBO Comedy HD (ch 9451)</option>\n                <option value=\"/listings/hbo-zone-hd\">HBO Zone HD (ch 9452)</option>\n                <option value=\"/listings/hbo-family-hd\">HBO Family HD (ch 9453)</option>\n                <option value=\"/listings/hbo-signature-hd\">HBO Signature HD (ch 9454)</option>\n                <option value=\"/listings/hbo-2-hd\">HBO 2 HD (ch 9455)</option>\n                <option value=\"/listings/hbo-hd\">HBO HD (ch 9456)</option>\n                <option value=\"/listings/planet-green-hd\">Destination America HD (ch 9457)</option>\n                <option value=\"/listings/cinemax-hd\">CineMAX HD (ch 9458)</option>\n                <option value=\"/listings/hbo-latino-hd\">HBO Latino HD (ch 9459)</option>\n                <option value=\"/listings/showtime-hd\">Showtime HD (ch 9460)</option>\n                <option value=\"/listings/hgtv-hd-hghd\">Home &amp; Garden Television HD (ch 9461)</option>\n                <option value=\"/listings/food-hd\">Food Network HD (ch 9462)</option>\n                <option value=\"/listings/cartoon-network-hd\">Cartoon Network HD (ch 9463)</option>\n                <option value=\"/listings/versus-hd\">NBCSN HD (ch 9466)</option>\n                <option value=\"/listings/in-demand-hdpv-hd-events\">In Demand PPVHD (HD Events) (ch 9467)</option>\n                <option value=\"/listings/palladia\">Palladia (ch 9469)</option>\n                <option value=\"/listings/lifetime-hd\">Lifetime HD (ch 9470)</option>\n                <option value=\"/listings/lifetime-movie-network-hd\">Lifetime Movie Network HD (ch 9471)</option>\n                <option value=\"/listings/golf-channel-hd\">The Golf Channel HD (ch 9473)</option>\n                <option value=\"/listings/e-entertainment-television-hd\">E! Entertainment Television HD (ch 9474)</option>\n                <option value=\"/listings/fx-hd\">FX HD (ch 9475)</option>\n                <option value=\"/listings/fox-hd-channel-foxhdwe\">Fox HD Channel (FOXHDWE) (ch 9477)</option>\n                <option value=\"/listings/hbo-hd-pacific\">HBO HD (Pacific) (ch 9478)</option>\n                <option value=\"/listings/actionmax-hd-east\">ActionMAX HD (ch 9479)</option>\n                <option value=\"/listings/sho-2-hd\">SHO 2 HD (ch 9480)</option>\n                <option value=\"/listings/movie-channel-hd\">The Movie Channel HD (ch 9481)</option>\n                <option value=\"/listings/wcbsdt-wcbs-dt-cbs\">WCBSDT (CBS) (ch 9483)</option>\n                <option value=\"/listings/mtv-music-television-hd\">MTV - Music Television HD (ch 9484)</option>\n                <option value=\"/listings/comedy-central\">Comedy Central (ch 9485)</option>\n                <option value=\"/listings/starz-comedy-hd\">Starz Comedy HD (ch 9486)</option>\n                <option value=\"/listings/discovery-channel-hd\">The Discovery Channel HD (ch 9487)</option>\n                <option value=\"/listings/learning-channel-hd\">The Learning Channel HD (ch 9488)</option>\n                <option value=\"/listings/animal-planet-hd\">Animal Planet HD (ch 9489)</option>\n                <option value=\"/listings/science-channel-hd\">Science Channel HD (ch 9490)</option>\n                <option value=\"/listings/history-hd\">History HD (ch 9491)</option>\n                <option value=\"/listings/bravo-hd\">Bravo HD (ch 9492)</option>\n                <option value=\"/listings/country-music-television-hd\">Country Music Television HD (ch 9493)</option>\n                <option value=\"/listings/tbs-hd\">TBS HD (ch 9494)</option>\n                <option value=\"/listings/starz-edge-hd\">Starz Edge HD (ch 9496)</option>\n                <option value=\"/listings/starz-kids-hd\">Starz Kids HD (ch 9497)</option>\n                <option value=\"/listings/starz-hd-pacific\">Starz HD (Pacific) (ch 9498)</option>\n                <option value=\"/listings/tbs-hd\">TBS HD (ch 9499)</option>\n                <option value=\"/listings/big-ten-network-hd\">Big Ten HD (ch 9500)</option>\n                <option value=\"/listings/big-ten-network-overflow-hd\">Big Ten Network Overflow HD (ch 9501)</option>\n                <option value=\"/listings/big-ten-network-overflow-hd\">Big Ten Network Overflow HD (ch 9502)</option>\n                <option value=\"/listings/big-ten-network-overflow-hd\">Big Ten Network Overflow HD (ch 9503)</option>\n                <option value=\"/listings/epix-3-hd\">Epix Hits (ch 9504)</option>\n                <option value=\"/listings/encore-hd\">Encore HD (ch 9505)</option>\n                <option value=\"/listings/spike-tv\">Spike TV (ch 9506)</option>\n                <option value=\"/listings/vh1-hd\">VH1 HD (ch 9507)</option>\n                <option value=\"/listings/nba-tv-hdtv\">NBA TV HDTV (ch 9508)</option>\n                <option value=\"/listings/msnbc\">MSNBC (ch 9511)</option>\n                <option value=\"/listings/msnbc-hd\">MSNBC HD (ch 9511)</option>\n                <option value=\"/listings/showtime-showcase-hd\">Showtime Showcase HD (ch 9513)</option>\n                <option value=\"/listings/fox-soccer-channel\">FXX (ch 9520)</option>\n                <option value=\"/listings/fox-soccer-channel-hd\">FXX HD (ch 9520)</option>\n                <option value=\"/listings/in-country-tv-dish\">In Country TV Dish (ch 9532)</option>\n                <option value=\"/listings/epix-hd\">Epix HD (ch 9533)</option>\n                <option value=\"/listings/epix-hd-2\">EPIX 2 HD (ch 9534)</option>\n                <option value=\"/listings/nhl-network-hd\">NHL Network HD (ch 9542)</option>\n                <option value=\"/listings/disney-channel-hd\">Disney Channel HD (ch 9557)</option>\n                <option value=\"/listings/abc-family-channel-hd\">ABC Family HD (ch 9558)</option>\n                <option value=\"/listings/nba-tv-hdtv\">NBA TV HDTV (ch 9561)</option>\n                <option value=\"/listings/veria\">Z Living (ch 9575)</option>\n                <option value=\"/listings/we-tv-hd\">WE tv HD (ch 9578)</option>\n                <option value=\"/listings/independent-film-channel-hd\">IFC HD (ch 9587)</option>\n                <option value=\"/listings/sundance-channel\">SundanceTV (ch 9588)</option>\n                <option value=\"/listings/sundance-channel-hd\">SundanceTV HD (ch 9588)</option>\n                <option value=\"/listings/fuse-hd\">Fuse HD (ch 9589)</option>\n                <option value=\"/listings/traders-television-network\">Traders Television Network (ch 9632)</option>\n                <option value=\"/listings/dn9642\">DN9642 (ch 9642)</option>\n                <option value=\"/listings/dealnow2\">Rocks TV (ch 9643)</option>\n                <option value=\"/listings/dn9644\">VALU has the best products offered on TV (ch 9644)</option>\n                <option value=\"/listings/dn9645\">DN9645 (ch 9645)</option>\n                <option value=\"/listings/satellite-response-network-7\">Satellite Response Network 7 (ch 9647)</option>\n                <option value=\"/listings/satellite-response-network\">Newsmax TV (ch 9649)</option>\n                <option value=\"/listings/amc-movies\">AMC Movies (ch 9656)</option>\n                <option value=\"/listings/amc-entertainment\">AMC Entertainment (ch 9657)</option>\n                <option value=\"/listings/vbs\">VBS (ch 9658)</option>\n                <option value=\"/listings/tv-asia\">TV Asia (ch 9662)</option>\n                <option value=\"/listings/local-access\">Local Access (ch 9663)</option>\n                <option value=\"/listings/mbc-america\">MBC America (ch 9664)</option>\n                <option value=\"/listings/colors-us\">AAPKA Colors US (ch 9665)</option>\n                <option value=\"/listings/tv5monde-etats-unis\">TV5MONDE Etats Unis (ch 9666)</option>\n                <option value=\"/listings/local-origination-loor9686\">Local Origination - LOOR9686 (ch 9686)</option>\n                <option value=\"/listings/colours-tv-dish\">Colours TV (Dish) (ch 9696)</option>\n                <option value=\"/listings/local-origination-loor9701\">Local Origination - LOOR9701 (ch 9701)</option>\n                <option value=\"/listings/local-origination-loor9702\">Local Origination - LOOR9702 (ch 9702)</option>\n                <option value=\"/listings/local-origination-loor9703\">Local Origination - LOOR9703 (ch 9703)</option>\n                <option value=\"/listings/local-origination-loor9704\">Local Origination - LOOR9704 (ch 9704)</option>\n                <option value=\"/listings/local-origination-loor9705\">Local Origination - LOOR9705 (ch 9705)</option>\n                <option value=\"/listings/local-origination-loor9706\">Local Origination - LOOR9706 (ch 9706)</option>\n                <option value=\"/listings/local-origination-loor9707\">Local Origination - LOOR9707 (ch 9707)</option>\n                <option value=\"/listings/local-origination-loor9708\">Local Origination - LOOR9708 (ch 9708)</option>\n                <option value=\"/listings/local-origination-loor9709\">Local Origination - LOOR9709 (ch 9709)</option>\n                <option value=\"/listings/local-origination-loor9710\">Local Origination - LOOR9710 (ch 9710)</option>\n                <option value=\"/listings/local-origination-loor9711\">Local Origination - LOOR9711 (ch 9711)</option>\n                <option value=\"/listings/local-origination-loor9712\">Local Origination - LOOR9712 (ch 9712)</option>\n                <option value=\"/listings/local-origination-loor9713\">Local Origination - LOOR9713 (ch 9713)</option>\n                <option value=\"/listings/local-origination-loor9714\">Local Origination - LOOR9714 (ch 9714)</option>\n                <option value=\"/listings/local-origination-loor9715\">Local Origination - LOOR9715 (ch 9715)</option>\n                <option value=\"/listings/local-origination-loor9716\">Local Origination - LOOR9716 (ch 9716)</option>\n                <option value=\"/listings/local-origination-loor9717\">Local Origination - LOOR9717 (ch 9717)</option>\n                <option value=\"/listings/local-origination-loor9718\">Local Origination - LOOR9718 (ch 9718)</option>\n                <option value=\"/listings/local-origination-loor9719\">Local Origination - LOOR9719 (ch 9719)</option>\n                <option value=\"/listings/local-origination-loor9720\">Local Origination - LOOR9720 (ch 9720)</option>\n                <option value=\"/listings/local-origination-loor9721\">Local Origination - LOOR9721 (ch 9721)</option>\n                <option value=\"/listings/local-origination-loor9722\">Local Origination - LOOR9722 (ch 9722)</option>\n                <option value=\"/listings/local-origination-loor9723\">Local Origination - LOOR9723 (ch 9723)</option>\n                <option value=\"/listings/local-origination-loor9724\">Local Origination - LOOR9724 (ch 9724)</option>\n                <option value=\"/listings/local-origination-loor9725\">Local Origination - LOOR9725 (ch 9725)</option>\n                <option value=\"/listings/local-origination-loor9726\">Local Origination - LOOR9726 (ch 9726)</option>\n                <option value=\"/listings/local-origination-loor9727\">Local Origination - LOOR9727 (ch 9727)</option>\n                <option value=\"/listings/local-origination-loor9728\">Local Origination - LOOR9728 (ch 9728)</option>\n                <option value=\"/listings/local-origination-loor9729\">Local Origination - LOOR9729 (ch 9729)</option>\n                <option value=\"/listings/local-origination-loor9730\">Local Origination - LOOR9730 (ch 9730)</option>\n                <option value=\"/listings/local-origination-loor9731\">Local Origination - LOOR9731 (ch 9731)</option>\n                <option value=\"/listings/local-origination-loor9732\">Local Origination - LOOR9732 (ch 9732)</option>\n                <option value=\"/listings/local-origination-loor9733\">Local Origination - LOOR9733 (ch 9733)</option>\n                <option value=\"/listings/local-origination-loor9734\">Local Origination - LOOR9734 (ch 9734)</option>\n                <option value=\"/listings/local-origination-loor9735\">Local Origination - LOOR9735 (ch 9735)</option>\n                <option value=\"/listings/local-origination-loor9736\">Local Origination - LOOR9736 (ch 9736)</option>\n                <option value=\"/listings/local-origination-loor9737\">Local Origination - LOOR9737 (ch 9737)</option>\n                <option value=\"/listings/local-origination-loor9738\">Local Origination - LOOR9738 (ch 9738)</option>\n                <option value=\"/listings/local-origination-loor9739\">Local Origination - LOOR9739 (ch 9739)</option>\n                <option value=\"/listings/local-origination-loor9740\">Local Origination - LOOR9740 (ch 9740)</option>\n                <option value=\"/listings/local-origination-loor9741\">Local Origination - LOOR9741 (ch 9741)</option>\n                <option value=\"/listings/local-origination-loor9742\">Local Origination - LOOR9742 (ch 9742)</option>\n                <option value=\"/listings/local-origination-loor9743\">Local Origination - LOOR9743 (ch 9743)</option>\n                <option value=\"/listings/local-origination-loor9744\">Local Origination - LOOR9744 (ch 9744)</option>\n                <option value=\"/listings/local-origination-loor9745\">Local Origination - LOOR9745 (ch 9745)</option>\n                <option value=\"/listings/local-origination-loor9746\">Local Origination - LOOR9746 (ch 9746)</option>\n                <option value=\"/listings/local-origination-loor9747\">Local Origination - LOOR9747 (ch 9747)</option>\n                <option value=\"/listings/local-origination-loor9748\">Local Origination - LOOR9748 (ch 9748)</option>\n                <option value=\"/listings/local-origination-loor9749\">Local Origination - LOOR9749 (ch 9749)</option>\n                <option value=\"/listings/local-origination-loor9750\">Local Origination - LOOR9750 (ch 9750)</option>\n                <option value=\"/listings/local-origination-loor9751\">Local Origination - LOOR9751 (ch 9751)</option>\n                <option value=\"/listings/local-origination-loor9752\">Local Origination - LOOR9752 (ch 9752)</option>\n                <option value=\"/listings/local-origination-loor9753\">Local Origination - LOOR9753 (ch 9753)</option>\n                <option value=\"/listings/local-origination-loor9754\">Local Origination - LOOR9754 (ch 9754)</option>\n                <option value=\"/listings/local-origination-loor9755\">Local Origination - LOOR9755 (ch 9755)</option>\n                <option value=\"/listings/local-origination-loor9756\">Local Origination - LOOR9756 (ch 9756)</option>\n                <option value=\"/listings/local-origination-loor9757\">Local Origination - LOOR9757 (ch 9757)</option>\n                <option value=\"/listings/local-origination-loor9758\">Local Origination - LOOR9758 (ch 9758)</option>\n                <option value=\"/listings/local-origination-loor9759\">Local Origination - LOOR9759 (ch 9759)</option>\n                <option value=\"/listings/local-origination-loor9760\">Local Origination - LOOR9760 (ch 9760)</option>\n                <option value=\"/listings/local-origination-loor9761\">Local Origination - LOOR9761 (ch 9761)</option>\n                <option value=\"/listings/local-origination-loor9762\">Local Origination - LOOR9762 (ch 9762)</option>\n                <option value=\"/listings/local-origination-loor9763\">Local Origination - LOOR9763 (ch 9763)</option>\n                <option value=\"/listings/local-origination-loor9764\">Local Origination - LOOR9764 (ch 9764)</option>\n                <option value=\"/listings/local-origination-loor9765\">Local Origination - LOOR9765 (ch 9765)</option>\n                <option value=\"/listings/local-origination-loor9766\">Local Origination - LOOR9766 (ch 9766)</option>\n                <option value=\"/listings/local-origination-loor9767\">Local Origination - LOOR9767 (ch 9767)</option>\n                <option value=\"/listings/local-origination-loor9768\">Local Origination - LOOR9768 (ch 9768)</option>\n                <option value=\"/listings/local-origination-loor9769\">Local Origination - LOOR9769 (ch 9769)</option>\n                <option value=\"/listings/local-origination-loor9770\">Local Origination - LOOR9770 (ch 9770)</option>\n                <option value=\"/listings/local-origination-loor9771\">Local Origination - LOOR9771 (ch 9771)</option>\n                <option value=\"/listings/local-origination-loor9772\">Local Origination - LOOR9772 (ch 9772)</option>\n                <option value=\"/listings/local-origination-loor9773\">Local Origination - LOOR9773 (ch 9773)</option>\n                <option value=\"/listings/local-origination-loor9774\">Local Origination - LOOR9774 (ch 9774)</option>\n                <option value=\"/listings/local-origination-loor9775\">Local Origination - LOOR9775 (ch 9775)</option>\n                <option value=\"/listings/local-origination-loor9776\">Local Origination - LOOR9776 (ch 9776)</option>\n                <option value=\"/listings/local-origination-loor9777\">Local Origination - LOOR9777 (ch 9777)</option>\n                <option value=\"/listings/local-origination-loor9778\">Local Origination - LOOR9778 (ch 9778)</option>\n                <option value=\"/listings/local-origination-loor9779\">Local Origination - LOOR9779 (ch 9779)</option>\n                <option value=\"/listings/local-origination-loor9780\">Local Origination - LOOR9780 (ch 9780)</option>\n                <option value=\"/listings/trace-sport-stars-international\">Trace Sport Stars International (ch 9789)</option>\n                <option value=\"/listings/blue-ocean-network\">Blue Ocean Network (ch 9792)</option>\n                <option value=\"/listings/euro-news\">Euro News (ch 9793)</option>\n                <option value=\"/listings/one-world-sports\">ONE World Sports (ch 9794)</option>\n                <option value=\"/listings/luxe-tv\">Luxe TV (ch 9796)</option>\n                <option value=\"/listings/tvb-pearl-us\">TVB Pearl (US) (ch 9798)</option>\n                <option value=\"/listings/record-international\">Record International (ch 9799)</option>\n                <option value=\"/listings/rede-globo-tv-internacional\">Rede Globo TV Internacional (ch 9800)</option>\n                <option value=\"/listings/premiere-futebol-clube\">Premiere Futebol Clube (ch 9801)</option>\n                <option value=\"/listings/tv-brasil-internacional\">TV Brasil Internacional (ch 9802)</option>\n                <option value=\"/listings/tv-mundial\">TV Mundial (ch 9804)</option>\n                <option value=\"/listings/band-international\">Band International (ch 9805)</option>\n                <option value=\"/listings/sic-internacional\">SIC Internacional (ch 9813)</option>\n                <option value=\"/listings/sic-noticias\">SIC Noticias (ch 9814)</option>\n                <option value=\"/listings/prosiebensat1-produktion\">ProSiebenSat1 Produktion (ch 9821)</option>\n                <option value=\"/listings/my-german-tv\">My German TV (ch 9822)</option>\n                <option value=\"/listings/deutsche-welle-amerika\">Deutsche Welle Amerika (ch 9823)</option>\n                <option value=\"/listings/my-german-tv/17965\">My German TV + (ch 9824)</option>\n                <option value=\"/listings/antenna-satellite-tv-greece\">Antenna 20 Years (ch 9829)</option>\n                <option value=\"/listings/alpha-tv\">Alpha TV (ch 9831)</option>\n                <option value=\"/listings/greek-cinema\">Greek Cinema (ch 9832)</option>\n                <option value=\"/listings/mega-greek-variety\">Mega Cosmos (US) (ch 9839)</option>\n                <option value=\"/listings/hum-tv\">Hum TV (ch 9843)</option>\n                <option value=\"/listings/masala-tv\">Masala TV (ch 9844)</option>\n                <option value=\"/listings/rai-italia\">RAI Italia (ch 9845)</option>\n                <option value=\"/listings/mediaset-italia\">Mediaset Italia (ch 9846)</option>\n                <option value=\"/listings/rai-news-24\">RAI News 24 (ch 9847)</option>\n                <option value=\"/listings/video-italia\">RAI Premium (ch 9848)</option>\n                <option value=\"/listings/rai-radio-1\">Rai Radio 1 (ch 9849)</option>\n                <option value=\"/listings/tv5monde-etats-unis\">TV5MONDE Etats Unis (ch 9857)</option>\n                <option value=\"/listings/tivi5monde\">Tivi5Monde (ch 9858)</option>\n                <option value=\"/listings/afrotainment-dish-only\">Afrotainment Dish Only (ch 9859)</option>\n                <option value=\"/listings/eurochannel-eng\">Eurochannel (ENG) (ch 9860)</option>\n                <option value=\"/listings/trace\">TRACE Urban (ch 9861)</option>\n                <option value=\"/listings/france-24\">France 24 (ch 9862)</option>\n                <option value=\"/listings/france-24-english\">France 24 English (ch 9864)</option>\n                <option value=\"/listings/africa24\">AFRICA24 (ch 9868)</option>\n                <option value=\"/listings/afrotainment-music\">Afrotainment Music (ch 9870)</option>\n                <option value=\"/listings/polsat-2-international\">Polsat 2 International (ch 9883)</option>\n                <option value=\"/listings/tvn-international\">TVN International (ch 9884)</option>\n                <option value=\"/listings/tvn-24\">TVN 24 (ch 9885)</option>\n                <option value=\"/listings/religia-tv\">ITVN Extra (ch 9886)</option>\n                <option value=\"/listings/kino-europa\">Kino Europa (ch 9887)</option>\n                <option value=\"/listings/baby-tv-polish\">Baby TV Polish (ch 9888)</option>\n                <option value=\"/listings/kino-polska-dish\">Kino Polska (DISH) (ch 9889)</option>\n                <option value=\"/listings/polska-muzyka\">Polska Muzyka (ch 9890)</option>\n                <option value=\"/listings/tv-sport\">TV Sport (ch 9891)</option>\n                <option value=\"/listings/tv-center-international\">TV Center International (ch 9898)</option>\n                <option value=\"/listings/ctc\">CTC (ch 9899)</option>\n                <option value=\"/listings/detskiy-kids\">Detsky Kids (ch 9900)</option>\n                <option value=\"/listings/amedia\">AMEDIA (ch 9901)</option>\n                <option value=\"/listings/russian-kino\">Russian Kino (ch 9902)</option>\n                <option value=\"/listings/russian-illusion\">Russian Illusion (ch 9904)</option>\n                <option value=\"/listings/tv-rain\">TV Rain (ch 9905)</option>\n                <option value=\"/listings/israeli-network\">The Israeli Network (ch 9911)</option>\n                <option value=\"/listings/good-life-channel-israel\">Good Life Channel Israel (ch 9912)</option>\n                <option value=\"/listings/israkids\">IsraKids (ch 9913)</option>\n                <option value=\"/listings/now-tv-international\">now TV International (ch 9914)</option>\n                <option value=\"/listings/now-tv-international-hd\">now TV International HD (ch 9915)</option>\n                <option value=\"/listings/cctv4-china-central-tv\">CCTV4-China Central TV (ch 9916)</option>\n                <option value=\"/listings/cctv-entertainment-dish\">CCTV Entertainment (ch 9917)</option>\n                <option value=\"/listings/phoenix-info-news\">Phoenix Info News (ch 9918)</option>\n                <option value=\"/listings/phoenix-satellite-tv\">Phoenix Satellite TV (ch 9919)</option>\n                <option value=\"/listings/hunan-television-htv-echostar\">Hunan Television (HTV - Echostar) (ch 9920)</option>\n                <option value=\"/listings/bejtv-echostar\">BEJTV (Echostar) (ch 9921)</option>\n                <option value=\"/listings/cctv-news\">CCTV News (ch 9922)</option>\n                <option value=\"/listings/cctv-espanol\">CCTV Español (ch 9923)</option>\n                <option value=\"/listings/cctv-opera-channel-dish\">CCTV Opera Channel (DISH) (ch 9924)</option>\n                <option value=\"/listings/local-origination-loor9925\">Local Origination - LOOR9925 (ch 9925)</option>\n                <option value=\"/listings/atv-home-channel-atv-for-dish\">ATV Home Channel (ATV for Dish) (ch 9926)</option>\n                <option value=\"/listings/china-movie-channel\">CHINA MOVIE CHANNEL (ch 9927)</option>\n                <option value=\"/listings/chong-qing\">Chong Qing (ch 9928)</option>\n                <option value=\"/listings/cyrtv\">China Yellow River TV (ch 9929)</option>\n                <option value=\"/listings/dragon-tv\">DRAGON TV (ch 9930)</option>\n                <option value=\"/listings/fugian-tv-fujtv-echostar\">Fujian TV (FUJTV) - ECHOSTAR (ch 9931)</option>\n                <option value=\"/listings/guandong-tv-echostar-guandong-channel\">GUANDONG TV (ECHOSTAR) (Guandong Channel (ch 9932)</option>\n                <option value=\"/listings/jiangsu-international-channel\">Jiangsu International Channel (ch 9933)</option>\n                <option value=\"/listings/cathay-echostar\">Cathay (Echostar) (ch 9934)</option>\n                <option value=\"/listings/shen-zhen-tv\">Shen Zhen TV (ch 9935)</option>\n                <option value=\"/listings/xiamen-tv\">Xiamen TV (ch 9936)</option>\n                <option value=\"/listings/local-origination-loor9937\">Local Origination - LOOR9937 (ch 9937)</option>\n                <option value=\"/listings/tvb8\">TVB8 (ch 9938)</option>\n                <option value=\"/listings/tvb-drama\">TVB Drama (ch 9939)</option>\n                <option value=\"/listings/now-hairun\">now HaiRun (ch 9942)</option>\n                <option value=\"/listings/nowbnc\">NowBNC (ch 9943)</option>\n                <option value=\"/listings/ettv-news\">ETTV News (ch 9945)</option>\n                <option value=\"/listings/et-global-chinese\">ET Global (Chinese) (ch 9946)</option>\n                <option value=\"/listings/ettv-drama\">ETTV Drama (ch 9947)</option>\n                <option value=\"/listings/formosa-tv\">Formosa TV (ch 9948)</option>\n                <option value=\"/listings/ctv\">CTV (ch 9949)</option>\n                <option value=\"/listings/et-financial-news\">ET Financial News (ch 9950)</option>\n                <option value=\"/listings/et-china\">ET China (ch 9951)</option>\n                <option value=\"/listings/set-international\">SET International (ch 9952)</option>\n                <option value=\"/listings/cts-international-dish\">CTS (International- DISH) (ch 9953)</option>\n                <option value=\"/listings/ttv-international-dish\">TTV (International -DISH) (ch 9954)</option>\n                <option value=\"/listings/jet-tv\">JET-TV (ch 9955)</option>\n                <option value=\"/listings/sky-link-tv\">Sky Link TV (ch 9956)</option>\n                <option value=\"/listings/sky-link-tv-2\">Sky Link Tv 2 (ch 9957)</option>\n                <option value=\"/listings/star-chinese-movies\">Star Chinese Movies (ch 9958)</option>\n                <option value=\"/listings/star-chinese-movies-2\">SCM International (ch 9959)</option>\n                <option value=\"/listings/yoyo-tv\">YOYO-TV (ch 9960)</option>\n                <option value=\"/listings/zee-tv-hd\">Zee TV HD (ch 9960)</option>\n                <option value=\"/listings/da-ai-tv\">Da Ai TV (ch 9961)</option>\n                <option value=\"/listings/channel-v\">Channel V (ch 9962)</option>\n                <option value=\"/listings/ubn\">UBN (ch 9964)</option>\n                <option value=\"/listings/gma-pinoy-tv\">GMA Pinoy TV (ch 9968)</option>\n                <option value=\"/listings/gma-life-tv\">GMA Life TV (ch 9969)</option>\n                <option value=\"/listings/arang-arirang-tv-korea-world-network\">ARANG (Arirang TV, Korea World Network) (ch 9981)</option>\n                <option value=\"/listings/btn\">BTN (ch 9982)</option>\n                <option value=\"/listings/jstv-epg\">JSTV EPG (ch 9983)</option>\n                <option value=\"/listings/tvbs\">TVBS (ch 9985)</option>\n                <option value=\"/listings/tvbe\">TVBE (ch 9986)</option>\n                <option value=\"/listings/tvb2\">TVB2 (ch 9987)</option>\n                <option value=\"/listings/tvb1\">TVB1 (ch 9988)</option>\n                <option value=\"/listings/tv-japan\">TV Japan (ch 9989)</option>\n                <option value=\"/listings/tv-japan-hd\">TV Japan HD (ch 9991)</option>\n                <option value=\"/listings/vbs\">VBS (ch 9992)</option>\n                <option value=\"/listings/willow-tv\">Willow Cricket (ch 9997)</option>\n                <option value=\"/listings/tvb-viet-nam\">TVB Viet Nam (ch 9998)</option>\n            </select>",
+			"settings":
+			{
+				"buffer_size": 113476,
+				"line_ending": "Unix",
+				"name": "<select class=\"selectRedirect\">"
+			}
+		},
+		{
+			"file": "site/trawlers/c3abn.py",
+			"settings":
+			{
+				"buffer_size": 2034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/cchurchchannel.py",
+			"settings":
+			{
+				"buffer_size": 3044,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/chope.py",
+			"settings":
+			{
+				"buffer_size": 3334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/clocatetv.py",
+			"settings":
+			{
+				"buffer_size": 3362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/script.js",
+			"settings":
+			{
+				"buffer_size": 9050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/img/logos_2/logos_2.txt",
+			"settings":
+			{
+				"buffer_size": 15659,
+				"line_ending": "Unix",
+				"name": "1,http://www.eternityready.tv/uploads/thumbs/b5ed7"
+			}
+		},
+		{
+			"file": "data/channels_corrected.json",
+			"settings":
+			{
+				"buffer_size": 25336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.tpl",
+			"settings":
+			{
+				"buffer_size": 2317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/style.css",
+			"settings":
+			{
+				"buffer_size": 7420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/ctct.py",
+			"settings":
+			{
+				"buffer_size": 3135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/ctytv.py",
+			"settings":
+			{
+				"buffer_size": 3544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "table_chair ca - £10\ntable+4chairs - £20\ncoal £20\nfood £100",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Unix",
+				"name": "table_chair ca - £10"
+			}
+		},
+		{
+			"file": "site/trawlers/cword.py",
+			"settings":
+			{
+				"buffer_size": 3640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/trawlers/ctbn.py",
+			"settings":
+			{
+				"buffer_size": 2925,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jonathan/Coding/Work/TVGuide",
+		"/Users/jonathan/Coding/Work/TVGuide/data",
+		"/Users/jonathan/Coding/Work/TVGuide/site",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers",
+		"/Users/jonathan/Coding/Work/TVGuide/static",
+		"/Users/jonathan/Coding/Work/TVGuide/static/css",
+		"/Users/jonathan/Coding/Work/TVGuide/static/fonts",
+		"/Users/jonathan/Coding/Work/TVGuide/static/js",
+		"/Users/jonathan/Coding/Work/TVGuide/views"
+	],
+	"file_history":
+	[
+		"/Users/jonathan/Coding/Work/TVGuide/data/channels_corrected.csv",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/clocatetv.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/ctct.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/cword.py",
+		"/Users/jonathan/Coding/Work/TVGuide/generate_channels_json.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/server.py",
+		"/Users/jonathan/Coding/Work/TVGuide/static/css/style.css",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/cchurchchannel.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/chope.py",
+		"/Users/jonathan/Coding/Work/TVGuide/static/js/script.js",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/ctbn.py",
+		"/Users/jonathan/Coding/Work/TVGuide/views/index.tpl",
+		"/Users/jonathan/Coding/Work/TVGuide/tvg.sublime-project",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/c3abn.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/update_data.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/trawlers/common.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/programmes_format.json",
+		"/Users/jonathan/Coding/Work/TVGuide/data/data.json",
+		"/Users/jonathan/Coding/Work/TVGuide/test_3abn.py",
+		"/Users/jonathan/Coding/Work/TVGuide/site/test_3abn.py",
+		"/Users/jonathan/Coding/Work/TVGuide/raleway.woff2",
+		"/Users/jonathan/Coding/Work/TVGuide/jquery-1.11.3.js",
+		"/Users/jonathan/Coding/Work/TVGuide/lora.woff2",
+		"/Users/jonathan/Downloads/SpaceTraderSource201/Form_Plunder.cs",
+		"/Applications/MAXON/CINEMA 4D R16 Demo/resource/modules/teamrender/webserver/htdocs/css/style.css",
+		"/Users/jonathan/Coding/trans/Transmission/po/en_GB.po",
+		"/Users/jonathan/Coding/trans/Transmission/po/en_CA.po",
+		"/Users/jonathan/Coding/trans/Transmission/po/en_AU.po",
+		"/Users/jonathan/Coding/trans/Transmission/libtransmission/torrent.c",
+		"/Users/jonathan/Coding/trans/Transmission/libtransmission/torrent.h",
+		"/Users/jonathan/Coding/trans/Transmission/libtransmission/rpcimpl.c",
+		"/Users/jonathan/Coding/trans/Transmission/libtransmission/resume.c",
+		"/Users/jonathan/Coding/trans/Transmission/libtransmission/resume.h",
+		"/Users/jonathan/Coding/trans/Transmission/libtransmission/peer-mgr.c",
+		"/Users/jonathan/Coding/htmltree3/test_doc.htmltree3",
+		"/Users/jonathan/Desktop/isisms.txt",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/RustAutoComplete.sublime-settings",
+		"/Users/jonathan/Coding/table/main.html",
+		"/Users/jonathan/Coding/test.rs",
+		"/Users/jonathan/Coding/mpvtest/mpv/client.h",
+		"/Users/jonathan/Coding/mpvtest/cocoabasic.m",
+		"/Users/jonathan/Desktop/newvid/style.css",
+		"/Users/jonathan/Desktop/newvid/script.js",
+		"/Users/jonathan/Desktop/newvid/index.html",
+		"/Users/jonathan/Desktop/newvid/reset.css",
+		"/Users/jonathan/Desktop/newvid/jquery-1.11.3.js",
+		"/usr/include/c++/4.2.1/bits/stl_raw_storage_iter.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"channels",
+			"channels-",
+			"scrollleft",
+			"interv",
+			"default",
+			"GLOBAL_selected_date",
+			"VM1404:2 ",
+			"popula",
+			"repopulate_all_channels",
+			"enla",
+			"gospel",
+			"uan",
+			"ty",
+			"scroll",
+			"update",
+			"alert",
+			"populate_channel",
+			"updateTime",
+			"not",
+			"60px",
+			"return",
+			"print",
+			"\"),",
+			"day_text",
+			"days",
+			"200",
+			"40px",
+			" | ",
+			"  ",
+			"VM5342:2 Channel ",
+			"mpv_format_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"60px",
+			"|",
+			" |",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "site/server.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1956,
+								1956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "site/do_scrape.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1768,
+								1768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 262.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "site/trawlers/csky.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"auto_name": "curl 'http://www.locatetv.com/listings/smile-of-a-",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82345,
+								82351
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<select class=\"selectRedirect\">",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 27523.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "site/trawlers/c3abn.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 482.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "site/trawlers/cchurchchannel.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1571,
+								1571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "site/trawlers/chope.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								871,
+								871
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "site/trawlers/clocatetv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 481.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "static/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3667,
+								3667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "static/img/logos_2/logos_2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2368,
+								2368
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1,http://www.eternityready.tv/uploads/thumbs/b5ed7",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "data/channels_corrected.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4467,
+								4467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "views/index.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								909,
+								909
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "static/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7211,
+								7211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "site/trawlers/ctct.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "site/trawlers/ctytv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								805
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"auto_name": "table_chair ca - £10",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "site/trawlers/cword.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 484.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "site/trawlers/ctbn.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1517,
+								1517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tvg.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

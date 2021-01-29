@@ -1,0 +1,70 @@
+{
+	"days": [
+	{ "date": "2015-09-21", "day": "Monday",    "human_date": "21st Sept" },
+	{ "date": "2015-09-22", "day": "Tuesday",   "human_date": "22nd Sept" },
+	{ "date": "2015-09-23", "day": "Wednesday", "human_date": "23rd Sept" },
+	{ "date": "2015-09-24", "day": "Thursday",  "human_date": "24th Sept" },
+	{ "date": "2015-09-25", "day": "Friday",    "human_date": "25th Sept" },
+	{ "date": "2015-09-26", "day": "Saturday",  "human_date": "26th Sept" },
+	{ "date": "2015-09-27", "day": "Sunday",    "human_date": "27th Sept" }
+	],
+
+	"schedules": {
+		"50": {
+			"2015-09-23": [
+				{
+					"program_name": "Test Hour-long Show",
+					"episode_name": "Season 4 Episode 2",
+					"date": "2015-09-23",
+					"starts": "0000",
+					"duration": 60,
+					"info_link": "http://somewhere"
+				},
+				{
+					"program_name": "Test 30min Show",
+					"episode_name": "Season 1 Episode 1",
+					"date": "2015-09-23",
+					"starts": "0100",
+					"duration": 30,
+					"info_link": "http://somewhere"
+				},
+				{
+					"program_name": "Another Test Show",
+					"starts": "0130",
+					"duration": 30
+				},
+				{
+					"program_name": "Test IV: Test Strikes Back",
+					"starts": "0200",
+					"duration": 60
+				},
+				{
+					"program_name": "Generic Test Programme",
+					"starts": "0300",
+					"duration": 60
+				},
+						{
+					"program_name": "Generic Test Programme",
+					"starts": "0400",
+					"duration": 60
+				},
+						{
+					"program_name": "Generic Test Programme",
+					"starts": "0500",
+					"duration": 60
+				},
+						{
+					"program_name": "Generic Test Programme",
+					"starts": "0600",
+					"duration": 60
+				},
+
+				{
+					"program_name": "Final test",
+					"starts": "2300",
+					"duration": 60
+				}
+			]
+		}
+	}
+}
